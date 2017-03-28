@@ -21,6 +21,12 @@
                     <input type="hidden" name="_token" value="{{ csrf_token() }}">
                     @foreach ($ingredients as $ingredient)
                         <input type="checkbox" name="ingredient-{{ $ingredient->id }}" value="{{ $ingredient->id }}">
+                        <input type="text" name="amount-ingredient-{{ $ingredient->id }}">
+                        <select name="unit-ingredient-{{ $ingredient->id }}">
+                        @foreach ($units as $unit)
+                            <option value="{{ $unit->id }}">{{ $unit->name }}</option>
+                        @endforeach
+                        </select>
                         {{ $ingredient->name }}<br />
                     @endforeach
                     <input type="submit" value="add">
