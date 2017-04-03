@@ -15,7 +15,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('ingredients/{id}', 'IngredientController@show');
+Route::get('/', 'LogController@show');
 
 Route::get('entry/add', 'LogEntryController@add');
 Route::post('entry/add', 'LogEntryController@save');
