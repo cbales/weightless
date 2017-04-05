@@ -1,37 +1,37 @@
-<div>
-	<div class="meal" id="breakfast">
-		<h2>Breakfast</h2>
-		@foreach ($breakfast as $item)
-			<div class="meal-item" id="meal-item-{{ $item->id }}">
-				{{ $item->quantity }}
-			</div>
-		@endforeach
-	</div>
+@extends('layouts.app')
 
-	<div class="meal" id="lunch">
-		<h2>Lunch</h2>
-		@foreach ($lunch as $item)
-			<div class="meal-item" id="meal-item-{{ $item->id }}">
-				{{ $item->quantity }}
-			</div>
-		@endforeach
-	</div>
+@section('title', 'Diary')
 
-	<div class="meal" id="dinner">
-		<h2>Dinner</h2>
-		@foreach ($dinner as $item)
-			<div class="meal-item" id="meal-item-{{ $item->id }}">
-				{{ $item->quantity }}
-			</div>
-		@endforeach
-	</div>
+@section('content')
 
-	<div class="meal" id="snacks">
-		<h2>Snacks</h2>
-		@foreach ($snacks as $item)
-			<div class="meal-item" id="meal-item-{{ $item->id }}">
-				{{ $item->quantity }}
-			</div>
-		@endforeach
-	</div>
-</div>
+    <div class="diary">
+        <div class="diary-day">
+            <p>Monday, May 14th</p>
+        </div>
+        <div class="entry-list">
+            <div class="entry-section" id="breakfast">
+                <div class="section-title">
+                    Breakfast
+                </div>
+                @foreach ($breakfast as $item)
+				<div class="entry" id="entry-{{ $item->id }}">
+					<div class="entry-img">
+						<img src="img/walnuts.png" alt="walnuts" />
+					</div>
+					<div class="entry-name">
+						Walnuts
+					</div>
+					<div class="entry-calories">
+						{{ $item->quantity }}
+					</div>
+				</div>
+				@endforeach
+            </div>
+        </div>
+        <div class="add-entry">
+        	<form action="/entry/add">
+        		<input type="submit" value="Add a new item" />
+        	</form>
+        </div>
+    </div>
+@endsection

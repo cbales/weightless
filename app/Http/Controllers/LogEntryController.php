@@ -41,5 +41,6 @@ class LogEntryController extends Controller
 				$logEntry->save();
 			}
 		}
+		return redirect('/');
 	}
 }

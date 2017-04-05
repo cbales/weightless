@@ -11,10 +11,6 @@
 |
 */
 
-Route::get('/', function () {
-    return view('diary');
-});
-
 Route::get('/', 'LogController@show');
 
 Route::get('entry/add', 'LogEntryController@add');
