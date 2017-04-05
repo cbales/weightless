@@ -15,10 +15,12 @@ class CreateCalorieUnitsTable extends Migration
     {
         Schema::create('calorie_units', function (Blueprint $table) {
             $table->increments('id');
-            $table->integer('ingredient_id');
-            $table->integer('unit');
+            $table->integer('ingredient_id')->length(10)->unsigned();
+            $table->integer('unit')->length(10)->unsigned();
             $table->double('calories');
             $table->timestamps();
+            $table->foreign('ingredient_id')->references('id')->on('ingredients');
+            $table->foreign('unit')->references('id')->on('units');
         });
     }
 

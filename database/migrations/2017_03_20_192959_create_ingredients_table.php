@@ -15,10 +15,11 @@ class CreateIngredientsTable extends Migration
     {
         Schema::create('ingredients', function (Blueprint $table) {
             $table->increments('id');
-            $table->integer('source_id');
+            $table->integer('source_id')->length(10)->unsigned();
             $table->string('name');
             $table->string('type');
             $table->timestamps();
+            $table->foreign('source_id')->references('id')->on('sources');
         });
     }
 
