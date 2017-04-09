@@ -15,3 +15,4 @@ Route::get('/', 'LogController@show');
 
 Route::get('entry/add', 'LogEntryController@add');
 Route::post('entry/add', 'LogEntryController@save');
+Route::get('entry/search', 'LogEntryController@search');

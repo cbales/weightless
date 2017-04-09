@@ -43,4 +43,12 @@ class LogEntryController extends Controller
 		}
 		return redirect('/');
 	}
+
+	public function search()
+	{
+		$ingredients = Ingredient::search('egg')->get();
+print_r($ingredients);
+
+		return view('search', ['ingredients' => $ingredients]);
+	}
 }
