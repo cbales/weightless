@@ -7,5 +7,5 @@ use Laravel\Scout\Searchable;
 
 class Ingredient extends Model
 {
-    use Searchable;
+    //use Searchable;
 }

@@ -1,0 +1,5412 @@
+{
+    "report": {
+        "sr": "28",
+        "groups": "All groups",
+        "subset": "All foods",
+        "end": 4350,
+        "start": 4200,
+        "total": 8489,
+        "foods": [
+            {
+                "ndbno": "11784",
+                "name": "Gourd, white-flowered (calabash), cooked, boiled, drained, with salt",
+                "weight": 146.0,
+                "measure": "1.0 cup (1\" cubes)",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "19",
+                        "gm": 13.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.03",
+                        "gm": 0.02
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "4.53",
+                        "gm": 3.1
+                    }
+                ]
+            },
+            {
+                "ndbno": "11219",
+                "name": "Gourd, white-flowered (calabash), cooked, boiled, drained, without salt",
+                "weight": 146.0,
+                "measure": "1.0 cup (1\" cubes)",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "22",
+                        "gm": 15.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.03",
+                        "gm": 0.02
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "5.39",
+                        "gm": 3.69
+                    }
+                ]
+            },
+            {
+                "ndbno": "11218",
+                "name": "Gourd, white-flowered (calabash), raw",
+                "weight": 58.0,
+                "measure": "0.5 cup (1\" pieces)",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "8",
+                        "gm": 14.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.01",
+                        "gm": 0.02
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "1.97",
+                        "gm": 3.39
+                    }
+                ]
+            },
+            {
+                "ndbno": "42139",
+                "name": "Granola bar, soft, milk chocolate coated, peanut butter",
+                "weight": 28.35,
+                "measure": "1.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "152",
+                        "gm": 536.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "6.70",
+                        "gm": 23.63
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "8.85",
+                        "gm": 31.2
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "15.34",
+                        "gm": 54.1
+                    }
+                ]
+            },
+            {
+                "ndbno": "09130",
+                "name": "Grape juice, canned or bottled, unsweetened, with added ascorbic acid",
+                "weight": 253.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "152",
+                        "gm": 60.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "35.93",
+                        "gm": 14.2
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.33",
+                        "gm": 0.13
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "37.37",
+                        "gm": 14.77
+                    }
+                ]
+            },
+            {
+                "ndbno": "09512",
+                "name": "Grape juice, canned or bottled, unsweetened, with added ascorbic acid and calcium",
+                "weight": 253.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "157",
+                        "gm": 62.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "35.93",
+                        "gm": 14.2
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.33",
+                        "gm": 0.13
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "37.37",
+                        "gm": 14.77
+                    }
+                ]
+            },
+            {
+                "ndbno": "09135",
+                "name": "Grape juice, canned or bottled, unsweetened, without added ascorbic acid",
+                "weight": 253.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "152",
+                        "gm": 60.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "35.93",
+                        "gm": 14.2
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.33",
+                        "gm": 0.13
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "37.37",
+                        "gm": 14.77
+                    }
+                ]
+            },
+            {
+                "ndbno": "11975",
+                "name": "Grape leaves, canned",
+                "weight": 4.0,
+                "measure": "1.0 leaf",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "3",
+                        "gm": 69.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.08",
+                        "gm": 1.97
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.47",
+                        "gm": 11.71
+                    }
+                ]
+            },
+            {
+                "ndbno": "11974",
+                "name": "Grape leaves, raw",
+                "weight": 14.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "13",
+                        "gm": 93.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.88",
+                        "gm": 6.3
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.30",
+                        "gm": 2.12
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "2.42",
+                        "gm": 17.31
+                    }
+                ]
+            },
+            {
+                "ndbno": "09127",
+                "name": "Grapefruit juice, pink or red, with added calcium",
+                "weight": 240.0,
+                "measure": "8.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "91",
+                        "gm": 38.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "19.99",
+                        "gm": 8.33
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.24",
+                        "gm": 0.1
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "20.86",
+                        "gm": 8.69
+                    }
+                ]
+            },
+            {
+                "ndbno": "09404",
+                "name": "Grapefruit juice, pink, raw",
+                "weight": 247.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "96",
+                        "gm": 39.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.25",
+                        "gm": 0.1
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "22.72",
+                        "gm": 9.2
+                    }
+                ]
+            },
+            {
+                "ndbno": "09416",
+                "name": "Grapefruit juice, white, bottled, unsweetened, OCEAN SPRAY",
+                "weight": 247.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "84",
+                        "gm": 34.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "18.52",
+                        "gm": 7.5
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.25",
+                        "gm": 0.1
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "19.59",
+                        "gm": 7.93
+                    }
+                ]
+            },
+            {
+                "ndbno": "09123",
+                "name": "Grapefruit juice, white, canned or bottled, unsweetened",
+                "weight": 247.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "84",
+                        "gm": 34.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "17.78",
+                        "gm": 7.2
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.25",
+                        "gm": 0.1
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "19.59",
+                        "gm": 7.93
+                    }
+                ]
+            },
+            {
+                "ndbno": "09124",
+                "name": "Grapefruit juice, white, canned, sweetened",
+                "weight": 250.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "115",
+                        "gm": 46.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "27.57",
+                        "gm": 11.03
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.23",
+                        "gm": 0.09
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "27.82",
+                        "gm": 11.13
+                    }
+                ]
+            },
+            {
+                "ndbno": "09126",
+                "name": "Grapefruit juice, white, frozen concentrate, unsweetened, diluted with 3 volume water",
+                "weight": 247.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "101",
+                        "gm": 41.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "23.79",
+                        "gm": 9.63
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.32",
+                        "gm": 0.13
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "24.03",
+                        "gm": 9.73
+                    }
+                ]
+            },
+            {
+                "ndbno": "09125",
+                "name": "Grapefruit juice, white, frozen concentrate, unsweetened, undiluted",
+                "weight": 207.0,
+                "measure": "1.0 can (6 fl oz)",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "302",
+                        "gm": 146.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "70.71",
+                        "gm": 34.16
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.99",
+                        "gm": 0.48
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "71.54",
+                        "gm": 34.56
+                    }
+                ]
+            },
+            {
+                "ndbno": "09128",
+                "name": "Grapefruit juice, white, raw",
+                "weight": 247.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "96",
+                        "gm": 39.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "22.48",
+                        "gm": 9.1
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.25",
+                        "gm": 0.1
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "22.72",
+                        "gm": 9.2
+                    }
+                ]
+            },
+            {
+                "ndbno": "09111",
+                "name": "Grapefruit, raw, pink and red and white, all areas",
+                "weight": 230.0,
+                "measure": "1.0 cup sections, with juice",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "74",
+                        "gm": 32.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "16.05",
+                        "gm": 6.98
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.23",
+                        "gm": 0.1
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "18.58",
+                        "gm": 8.08
+                    }
+                ]
+            },
+            {
+                "ndbno": "09112",
+                "name": "Grapefruit, raw, pink and red, all areas",
+                "weight": 230.0,
+                "measure": "1.0 cup sections, with juice",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "97",
+                        "gm": 42.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "15.85",
+                        "gm": 6.89
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.32",
+                        "gm": 0.14
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "24.52",
+                        "gm": 10.66
+                    }
+                ]
+            },
+            {
+                "ndbno": "09113",
+                "name": "Grapefruit, raw, pink and red, California and Arizona",
+                "weight": 230.0,
+                "measure": "1.0 cup sections, with juice",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "85",
+                        "gm": 37.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.23",
+                        "gm": 0.1
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "22.29",
+                        "gm": 9.69
+                    }
+                ]
+            },
+            {
+                "ndbno": "09114",
+                "name": "Grapefruit, raw, pink and red, Florida",
+                "weight": 230.0,
+                "measure": "1.0 cup sections, with juice",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "69",
+                        "gm": 30.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.23",
+                        "gm": 0.1
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "17.25",
+                        "gm": 7.5
+                    }
+                ]
+            },
+            {
+                "ndbno": "09116",
+                "name": "Grapefruit, raw, white, all areas",
+                "weight": 230.0,
+                "measure": "1.0 cup sections, with juice",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "76",
+                        "gm": 33.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "16.81",
+                        "gm": 7.31
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.23",
+                        "gm": 0.1
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "19.34",
+                        "gm": 8.41
+                    }
+                ]
+            },
+            {
+                "ndbno": "09117",
+                "name": "Grapefruit, raw, white, California",
+                "weight": 230.0,
+                "measure": "1.0 cup sections, with juice",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "85",
+                        "gm": 37.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.23",
+                        "gm": 0.1
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "20.91",
+                        "gm": 9.09
+                    }
+                ]
+            },
+            {
+                "ndbno": "09118",
+                "name": "Grapefruit, raw, white, Florida",
+                "weight": 230.0,
+                "measure": "1.0 cup sections, with juice",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "74",
+                        "gm": 32.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.23",
+                        "gm": 0.1
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "18.84",
+                        "gm": 8.19
+                    }
+                ]
+            },
+            {
+                "ndbno": "09120",
+                "name": "Grapefruit, sections, canned, juice pack, solids and liquids",
+                "weight": 249.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "92",
+                        "gm": 37.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "21.91",
+                        "gm": 8.8
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.22",
+                        "gm": 0.09
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "22.93",
+                        "gm": 9.21
+                    }
+                ]
+            },
+            {
+                "ndbno": "09121",
+                "name": "Grapefruit, sections, canned, light syrup pack, solids and liquids",
+                "weight": 254.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "152",
+                        "gm": 60.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "38.20",
+                        "gm": 15.04
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.25",
+                        "gm": 0.1
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "39.22",
+                        "gm": 15.44
+                    }
+                ]
+            },
+            {
+                "ndbno": "09119",
+                "name": "Grapefruit, sections, canned, water pack, solids and liquids",
+                "weight": 244.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "88",
+                        "gm": 36.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "21.35",
+                        "gm": 8.75
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.24",
+                        "gm": 0.1
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "22.33",
+                        "gm": 9.15
+                    }
+                ]
+            },
+            {
+                "ndbno": "09131",
+                "name": "Grapes, american type (slip skin), raw",
+                "weight": 92.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "62",
+                        "gm": 67.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "14.95",
+                        "gm": 16.25
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.32",
+                        "gm": 0.35
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "15.78",
+                        "gm": 17.15
+                    }
+                ]
+            },
+            {
+                "ndbno": "09134",
+                "name": "Grapes, canned, thompson seedless, heavy syrup pack, solids and liquids",
+                "weight": 256.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "195",
+                        "gm": 76.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "48.77",
+                        "gm": 19.05
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.26",
+                        "gm": 0.1
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "50.30",
+                        "gm": 19.65
+                    }
+                ]
+            },
+            {
+                "ndbno": "09133",
+                "name": "Grapes, canned, thompson seedless, water pack, solids and liquids",
+                "weight": 245.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "98",
+                        "gm": 40.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "23.77",
+                        "gm": 9.7
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.27",
+                        "gm": 0.11
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "25.23",
+                        "gm": 10.3
+                    }
+                ]
+            },
+            {
+                "ndbno": "09129",
+                "name": "Grapes, muscadine, raw",
+                "weight": 6.0,
+                "measure": "1.0 grape",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "3",
+                        "gm": 57.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.03",
+                        "gm": 0.47
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.84",
+                        "gm": 13.93
+                    }
+                ]
+            },
+            {
+                "ndbno": "09132",
+                "name": "Grapes, red or green (European type, such as Thompson seedless), raw",
+                "weight": 151.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "104",
+                        "gm": 69.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "23.37",
+                        "gm": 15.48
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.24",
+                        "gm": 0.16
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "27.33",
+                        "gm": 18.1
+                    }
+                ]
+            },
+            {
+                "ndbno": "06114",
+                "name": "Gravy, au jus, canned",
+                "weight": 59.0,
+                "measure": "0.25 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "9",
+                        "gm": 16.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.12",
+                        "gm": 0.2
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "1.48",
+                        "gm": 2.5
+                    }
+                ]
+            },
+            {
+                "ndbno": "06115",
+                "name": "Gravy, au jus, dry",
+                "weight": 3.0,
+                "measure": "1.0 tsp",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "9",
+                        "gm": 313.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.29",
+                        "gm": 9.63
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "1.42",
+                        "gm": 47.49
+                    }
+                ]
+            },
+            {
+                "ndbno": "06116",
+                "name": "Gravy, beef, canned, ready-to-serve",
+                "weight": 233.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "123",
+                        "gm": 53.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.49",
+                        "gm": 0.21
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "5.50",
+                        "gm": 2.36
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "11.21",
+                        "gm": 4.81
+                    }
+                ]
+            },
+            {
+                "ndbno": "06957",
+                "name": "Gravy, brown instant, dry",
+                "weight": 6.7,
+                "measure": "1.0 serving",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "25",
+                        "gm": 380.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.62",
+                        "gm": 9.23
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.79",
+                        "gm": 11.85
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "4.01",
+                        "gm": 59.78
+                    }
+                ]
+            },
+            {
+                "ndbno": "06118",
+                "name": "Gravy, brown, dry",
+                "weight": 6.0,
+                "measure": "1.0 tbsp",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "22",
+                        "gm": 367.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.58",
+                        "gm": 9.61
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "3.56",
+                        "gm": 59.38
+                    }
+                ]
+            },
+            {
+                "ndbno": "06996",
+                "name": "Gravy, CAMPBELL'S, au jus",
+                "weight": 59.0,
+                "measure": "0.25 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "5",
+                        "gm": 8.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    }
+                ]
+            },
+            {
+                "ndbno": "06997",
+                "name": "Gravy, CAMPBELL'S, beef",
+                "weight": 59.0,
+                "measure": "0.25 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "25",
+                        "gm": 42.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "1.00",
+                        "gm": 1.69
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "3.00",
+                        "gm": 5.08
+                    }
+                ]
+            },
+            {
+                "ndbno": "06317",
+                "name": "Gravy, CAMPBELL'S, beef, fat free",
+                "weight": 59.0,
+                "measure": "0.25 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "15",
+                        "gm": 25.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "3.00",
+                        "gm": 5.08
+                    }
+                ]
+            },
+            {
+                "ndbno": "06324",
+                "name": "Gravy, CAMPBELL'S, beef, microwavable",
+                "weight": 59.0,
+                "measure": "0.25 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "25",
+                        "gm": 42.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "1.00",
+                        "gm": 1.69
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "3.00",
+                        "gm": 5.08
+                    }
+                ]
+            },
+            {
+                "ndbno": "06998",
+                "name": "Gravy, CAMPBELL'S, brown with onions",
+                "weight": 59.0,
+                "measure": "0.25 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "25",
+                        "gm": 42.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "2.00",
+                        "gm": 3.39
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "1.00",
+                        "gm": 1.69
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "4.00",
+                        "gm": 6.78
+                    }
+                ]
+            },
+            {
+                "ndbno": "06999",
+                "name": "Gravy, CAMPBELL'S, chicken",
+                "weight": 56.0,
+                "measure": "0.25 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "29",
+                        "gm": 51.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.53",
+                        "gm": 0.94
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "1.53",
+                        "gm": 2.73
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "3.29",
+                        "gm": 5.87
+                    }
+                ]
+            },
+            {
+                "ndbno": "06320",
+                "name": "Gravy, CAMPBELL'S, chicken, fat free",
+                "weight": 59.0,
+                "measure": "0.25 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "15",
+                        "gm": 25.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "3.00",
+                        "gm": 5.08
+                    }
+                ]
+            },
+            {
+                "ndbno": "06325",
+                "name": "Gravy, CAMPBELL'S, chicken, microwavable",
+                "weight": 60.0,
+                "measure": "0.25 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "40",
+                        "gm": 67.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "1.00",
+                        "gm": 1.67
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "3.00",
+                        "gm": 5.0
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    }
+                ]
+            },
+            {
+                "ndbno": "06318",
+                "name": "Gravy, CAMPBELL'S, country style cream",
+                "weight": 59.0,
+                "measure": "0.25 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "45",
+                        "gm": 76.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "1.00",
+                        "gm": 1.69
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "3.00",
+                        "gm": 5.08
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    }
+                ]
+            },
+            {
+                "ndbno": "06319",
+                "name": "Gravy, CAMPBELL'S, country style sausage",
+                "weight": 59.0,
+                "measure": "0.25 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "70",
+                        "gm": 119.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "1.00",
+                        "gm": 1.69
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "6.00",
+                        "gm": 10.17
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "3.00",
+                        "gm": 5.08
+                    }
+                ]
+            },
+            {
+                "ndbno": "06321",
+                "name": "Gravy, CAMPBELL'S, golden pork",
+                "weight": 59.0,
+                "measure": "0.25 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "45",
+                        "gm": 76.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "1.00",
+                        "gm": 1.69
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "3.00",
+                        "gm": 5.08
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    }
+                ]
+            },
+            {
+                "ndbno": "06322",
+                "name": "Gravy, CAMPBELL'S, mushroom",
+                "weight": 59.0,
+                "measure": "0.25 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "20",
+                        "gm": 34.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "1.00",
+                        "gm": 1.69
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "3.00",
+                        "gm": 5.08
+                    }
+                ]
+            },
+            {
+                "ndbno": "06326",
+                "name": "Gravy, CAMPBELL'S, turkey",
+                "weight": 59.0,
+                "measure": "0.25 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "25",
+                        "gm": 42.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "1.00",
+                        "gm": 1.69
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "3.00",
+                        "gm": 5.08
+                    }
+                ]
+            },
+            {
+                "ndbno": "06323",
+                "name": "Gravy, CAMPBELL'S, turkey, fat free",
+                "weight": 60.0,
+                "measure": "0.25 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "20",
+                        "gm": 33.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "4.00",
+                        "gm": 6.67
+                    }
+                ]
+            },
+            {
+                "ndbno": "06332",
+                "name": "Gravy, CAMPBELL'S, turkey, microwavable",
+                "weight": 60.0,
+                "measure": "0.25 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "25",
+                        "gm": 42.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "1.00",
+                        "gm": 1.67
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "3.00",
+                        "gm": 5.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "06119",
+                "name": "Gravy, chicken, canned or bottled, ready-to-serve",
+                "weight": 57.0,
+                "measure": "0.25 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "27",
+                        "gm": 48.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.17",
+                        "gm": 0.3
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "1.49",
+                        "gm": 2.62
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "3.02",
+                        "gm": 5.29
+                    }
+                ]
+            },
+            {
+                "ndbno": "06120",
+                "name": "Gravy, chicken, dry",
+                "weight": 8.0,
+                "measure": "1.0 tbsp",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "30",
+                        "gm": 381.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.78",
+                        "gm": 9.73
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "4.97",
+                        "gm": 62.09
+                    }
+                ]
+            },
+            {
+                "ndbno": "06329",
+                "name": "Gravy, FRANCO-AMERICAN, beef, slow roast",
+                "weight": 59.0,
+                "measure": "0.25 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "25",
+                        "gm": 42.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.50",
+                        "gm": 0.85
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "3.00",
+                        "gm": 5.08
+                    }
+                ]
+            },
+            {
+                "ndbno": "06327",
+                "name": "Gravy, FRANCO-AMERICAN, beef, slow roast, fat free",
+                "weight": 59.0,
+                "measure": "0.25 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "20",
+                        "gm": 34.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "3.00",
+                        "gm": 5.08
+                    }
+                ]
+            },
+            {
+                "ndbno": "06330",
+                "name": "Gravy, FRANCO-AMERICAN, chicken, slow roast",
+                "weight": 59.0,
+                "measure": "0.25 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "20",
+                        "gm": 34.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.50",
+                        "gm": 0.85
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "3.00",
+                        "gm": 5.08
+                    }
+                ]
+            },
+            {
+                "ndbno": "06328",
+                "name": "Gravy, FRANCO-AMERICAN, chicken, slow roast, fat free",
+                "weight": 59.0,
+                "measure": "0.25 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "20",
+                        "gm": 34.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "4.00",
+                        "gm": 6.78
+                    }
+                ]
+            },
+            {
+                "ndbno": "06331",
+                "name": "Gravy, FRANCO-AMERICAN, turkey, slow roast",
+                "weight": 59.0,
+                "measure": "0.25 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "25",
+                        "gm": 42.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.50",
+                        "gm": 0.85
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "4.00",
+                        "gm": 6.78
+                    }
+                ]
+            },
+            {
+                "ndbno": "27061",
+                "name": "Gravy, HEINZ Home Style, classic chicken",
+                "weight": 58.0,
+                "measure": "0.25 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "27",
+                        "gm": 46.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "1.49",
+                        "gm": 2.57
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "2.91",
+                        "gm": 5.01
+                    }
+                ]
+            },
+            {
+                "ndbno": "06985",
+                "name": "Gravy, HEINZ Home Style, savory beef",
+                "weight": 57.0,
+                "measure": "1.0 serving 1/4 cup 2 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "22",
+                        "gm": 39.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.30",
+                        "gm": 0.52
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.64",
+                        "gm": 1.13
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "3.56",
+                        "gm": 6.24
+                    }
+                ]
+            },
+            {
+                "ndbno": "06958",
+                "name": "Gravy, instant beef, dry",
+                "weight": 6.7,
+                "measure": "1.0 serving",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "25",
+                        "gm": 369.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "1.60",
+                        "gm": 23.9
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.64",
+                        "gm": 9.48
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "4.09",
+                        "gm": 61.1
+                    }
+                ]
+            },
+            {
+                "ndbno": "06959",
+                "name": "Gravy, instant turkey, dry",
+                "weight": 6.7,
+                "measure": "1.0 serving",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "27",
+                        "gm": 409.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.51",
+                        "gm": 7.6
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.98",
+                        "gm": 14.66
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "3.86",
+                        "gm": 57.56
+                    }
+                ]
+            },
+            {
+                "ndbno": "06977",
+                "name": "Gravy, meat or poultry, low sodium, prepared",
+                "weight": 236.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "125",
+                        "gm": 53.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.02",
+                        "gm": 0.01
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "5.66",
+                        "gm": 2.4
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "14.54",
+                        "gm": 6.16
+                    }
+                ]
+            },
+            {
+                "ndbno": "06121",
+                "name": "Gravy, mushroom, canned",
+                "weight": 238.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "119",
+                        "gm": 50.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "6.45",
+                        "gm": 2.71
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "13.02",
+                        "gm": 5.47
+                    }
+                ]
+            },
+            {
+                "ndbno": "06122",
+                "name": "Gravy, mushroom, dry, powder",
+                "weight": 21.0,
+                "measure": "1.0 cup (8 fl oz)",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "69",
+                        "gm": 328.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.68",
+                        "gm": 3.26
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.84",
+                        "gm": 4.0
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "13.58",
+                        "gm": 64.66
+                    }
+                ]
+            },
+            {
+                "ndbno": "06123",
+                "name": "Gravy, onion, dry, mix",
+                "weight": 24.0,
+                "measure": "1.0 cup (8 fl oz)",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "77",
+                        "gm": 322.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.72",
+                        "gm": 3.0
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "16.23",
+                        "gm": 67.64
+                    }
+                ]
+            },
+            {
+                "ndbno": "06124",
+                "name": "Gravy, pork, dry, powder",
+                "weight": 6.7,
+                "measure": "1.0 serving",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "25",
+                        "gm": 367.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "1.66",
+                        "gm": 24.73
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.58",
+                        "gm": 8.63
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "4.26",
+                        "gm": 63.57
+                    }
+                ]
+            },
+            {
+                "ndbno": "06125",
+                "name": "Gravy, turkey, canned, ready-to-serve",
+                "weight": 238.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "121",
+                        "gm": 51.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.50",
+                        "gm": 0.21
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "5.00",
+                        "gm": 2.1
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "12.14",
+                        "gm": 5.1
+                    }
+                ]
+            },
+            {
+                "ndbno": "06126",
+                "name": "Gravy, turkey, dry",
+                "weight": 7.0,
+                "measure": "1.0 serving",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "26",
+                        "gm": 367.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.50",
+                        "gm": 7.19
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "4.56",
+                        "gm": 65.12
+                    }
+                ]
+            },
+            {
+                "ndbno": "06127",
+                "name": "Gravy, unspecified type, dry",
+                "weight": 25.0,
+                "measure": "1.0 cup (8 fl oz)",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "86",
+                        "gm": 344.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "2.00",
+                        "gm": 8.0
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "14.50",
+                        "gm": 58.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "05669",
+                "name": "Ground turkey, 85% lean, 15% fat, pan-broiled crumbles",
+                "weight": 85.0,
+                "measure": "3.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "219",
+                        "gm": 258.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "14.83",
+                        "gm": 17.45
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "05670",
+                "name": "Ground turkey, 85% lean, 15% fat, patties, broiled",
+                "weight": 85.0,
+                "measure": "3.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "212",
+                        "gm": 249.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "13.77",
+                        "gm": 16.2
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "05668",
+                "name": "Ground turkey, 85% lean, 15% fat, raw",
+                "weight": 85.0,
+                "measure": "1.0 patty (cooked from 4 oz raw)",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "153",
+                        "gm": 180.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "10.66",
+                        "gm": 12.54
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "05666",
+                "name": "Ground turkey, 93% lean, 7% fat, pan-broiled crumbles",
+                "weight": 85.0,
+                "measure": "3.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "181",
+                        "gm": 213.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "9.86",
+                        "gm": 11.6
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "05667",
+                "name": "Ground turkey, 93% lean, 7% fat, patties, broiled",
+                "weight": 85.0,
+                "measure": "3.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "176",
+                        "gm": 207.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "9.73",
+                        "gm": 11.45
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "05665",
+                "name": "Ground turkey, 93% lean, 7% fat, raw",
+                "weight": 28.35,
+                "measure": "1.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "43",
+                        "gm": 150.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "2.36",
+                        "gm": 8.34
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "05306",
+                "name": "Ground turkey, cooked",
+                "weight": 82.0,
+                "measure": "1.0 patty (4 oz, raw) (yield after cooking)",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "166",
+                        "gm": 203.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "8.53",
+                        "gm": 10.4
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "05663",
+                "name": "Ground turkey, fat free, pan-broiled crumbles",
+                "weight": 85.0,
+                "measure": "3.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "128",
+                        "gm": 151.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "2.30",
+                        "gm": 2.71
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "05664",
+                "name": "Ground turkey, fat free, patties, broiled",
+                "weight": 85.0,
+                "measure": "1.0 patty",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "117",
+                        "gm": 138.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "2.11",
+                        "gm": 2.48
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "05662",
+                "name": "Ground turkey, fat free, raw",
+                "weight": 85.0,
+                "measure": "1.0 patty (cooked from 4 oz raw)",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "95",
+                        "gm": 112.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "1.66",
+                        "gm": 1.95
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "05305",
+                "name": "Ground turkey, raw",
+                "weight": 453.6,
+                "measure": "1.0 lb",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "671",
+                        "gm": 148.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "34.75",
+                        "gm": 7.66
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "09138",
+                "name": "Groundcherries, (cape-gooseberries or poha), raw",
+                "weight": 140.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "74",
+                        "gm": 53.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.98",
+                        "gm": 0.7
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "15.68",
+                        "gm": 11.2
+                    }
+                ]
+            },
+            {
+                "ndbno": "09434",
+                "name": "Guanabana nectar, canned",
+                "weight": 251.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "148",
+                        "gm": 59.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "32.81",
+                        "gm": 13.07
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.43",
+                        "gm": 0.17
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "37.47",
+                        "gm": 14.93
+                    }
+                ]
+            },
+            {
+                "ndbno": "09435",
+                "name": "Guava nectar, canned, with added ascorbic acid",
+                "weight": 251.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "158",
+                        "gm": 63.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "32.50",
+                        "gm": 12.95
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.15",
+                        "gm": 0.06
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "40.79",
+                        "gm": 16.25
+                    }
+                ]
+            },
+            {
+                "ndbno": "09519",
+                "name": "Guava nectar, with sucralose, canned",
+                "weight": 335.0,
+                "measure": "11.3 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "161",
+                        "gm": 48.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "34.00",
+                        "gm": 10.15
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.23",
+                        "gm": 0.07
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "44.55",
+                        "gm": 13.3
+                    }
+                ]
+            },
+            {
+                "ndbno": "09143",
+                "name": "Guava sauce, cooked",
+                "weight": 238.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "86",
+                        "gm": 36.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "13.99",
+                        "gm": 5.88
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.33",
+                        "gm": 0.14
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "22.56",
+                        "gm": 9.48
+                    }
+                ]
+            },
+            {
+                "ndbno": "09139",
+                "name": "Guavas, common, raw",
+                "weight": 165.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "112",
+                        "gm": 68.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "14.72",
+                        "gm": 8.92
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "1.57",
+                        "gm": 0.95
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "23.63",
+                        "gm": 14.32
+                    }
+                ]
+            },
+            {
+                "ndbno": "09140",
+                "name": "Guavas, strawberry, raw",
+                "weight": 244.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "168",
+                        "gm": 69.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "1.46",
+                        "gm": 0.6
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "42.36",
+                        "gm": 17.36
+                    }
+                ]
+            },
+            {
+                "ndbno": "05151",
+                "name": "Guinea hen, meat and skin, raw",
+                "weight": 85.0,
+                "measure": "3.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "134",
+                        "gm": 158.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "5.48",
+                        "gm": 6.45
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "05152",
+                "name": "Guinea hen, meat only, raw",
+                "weight": 85.0,
+                "measure": "3.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "94",
+                        "gm": 110.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "2.10",
+                        "gm": 2.47
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "42281",
+                "name": "Gums, seed gums (includes locust bean, guar)",
+                "weight": 28.35,
+                "measure": "1.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "94",
+                        "gm": 332.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.14",
+                        "gm": 0.5
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "21.91",
+                        "gm": 77.3
+                    }
+                ]
+            },
+            {
+                "ndbno": "07032",
+                "name": "Ham and cheese loaf or roll",
+                "weight": 28.0,
+                "measure": "1.0 slice (1 oz) (4\" x 4\" x 3/32\" thick)",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "67",
+                        "gm": 241.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "5.24",
+                        "gm": 18.7
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "1.12",
+                        "gm": 4.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "07033",
+                "name": "Ham and cheese spread",
+                "weight": 15.0,
+                "measure": "1.0 tbsp",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "37",
+                        "gm": 245.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "2.78",
+                        "gm": 18.53
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.34",
+                        "gm": 2.28
+                    }
+                ]
+            },
+            {
+                "ndbno": "07031",
+                "name": "Ham salad spread",
+                "weight": 15.0,
+                "measure": "1.0 tbsp",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "32",
+                        "gm": 216.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "2.33",
+                        "gm": 15.53
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "1.60",
+                        "gm": 10.64
+                    }
+                ]
+            },
+            {
+                "ndbno": "07026",
+                "name": "Ham, chopped, canned",
+                "weight": 28.35,
+                "measure": "1.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "68",
+                        "gm": 239.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "5.34",
+                        "gm": 18.83
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.07",
+                        "gm": 0.26
+                    }
+                ]
+            },
+            {
+                "ndbno": "07027",
+                "name": "Ham, chopped, not canned",
+                "weight": 28.0,
+                "measure": "1.0 slice (1 oz) (4\" x 4\" x 3/32\" thick)",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "50",
+                        "gm": 180.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "2.88",
+                        "gm": 10.3
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "1.18",
+                        "gm": 4.2
+                    }
+                ]
+            },
+            {
+                "ndbno": "07938",
+                "name": "Ham, honey, smoked, cooked",
+                "weight": 55.0,
+                "measure": "1.94 oz (1 serving)",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "67",
+                        "gm": 122.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "1.30",
+                        "gm": 2.37
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "4.00",
+                        "gm": 7.27
+                    }
+                ]
+            },
+            {
+                "ndbno": "07030",
+                "name": "Ham, minced",
+                "weight": 28.35,
+                "measure": "1.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "75",
+                        "gm": 263.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "5.86",
+                        "gm": 20.68
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.52",
+                        "gm": 1.84
+                    }
+                ]
+            },
+            {
+                "ndbno": "07028",
+                "name": "Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",
+                "weight": 13.0,
+                "measure": "1.0 slice",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "14",
+                        "gm": 107.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.53",
+                        "gm": 4.04
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.09",
+                        "gm": 0.7
+                    }
+                ]
+            },
+            {
+                "ndbno": "07029",
+                "name": "Ham, sliced, regular (approximately 11% fat)",
+                "weight": 56.0,
+                "measure": "56.0 grams 1 serving",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "91",
+                        "gm": 163.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "4.82",
+                        "gm": 8.6
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "2.14",
+                        "gm": 3.83
+                    }
+                ]
+            },
+            {
+                "ndbno": "35233",
+                "name": "Hazelnuts, beaked (Northern Plains Indians)",
+                "weight": 0.4,
+                "measure": "1.0 nut",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "3",
+                        "gm": 628.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.21",
+                        "gm": 52.99
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.09",
+                        "gm": 22.98
+                    }
+                ]
+            },
+            {
+                "ndbno": "07034",
+                "name": "Headcheese, pork",
+                "weight": 28.0,
+                "measure": "1.0 slice (1 oz) (4\" x 4\" x 3/32\" thick)",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "44",
+                        "gm": 157.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "3.05",
+                        "gm": 10.9
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "31007",
+                "name": "HEALTHY REQUEST Tomato juice",
+                "weight": 243.0,
+                "measure": "8.0 fl oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "51",
+                        "gm": 21.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "8.99",
+                        "gm": 3.7
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "11.01",
+                        "gm": 4.53
+                    }
+                ]
+            },
+            {
+                "ndbno": "06987",
+                "name": "HEALTHY REQUEST, Cream of Celery Soup, condensed",
+                "weight": 124.0,
+                "measure": "1.0 serving 1/2 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "69",
+                        "gm": 56.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "2.00",
+                        "gm": 1.61
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "12.00",
+                        "gm": 9.68
+                    }
+                ]
+            },
+            {
+                "ndbno": "06990",
+                "name": "HEALTHY REQUEST, Minestrone Soup, condensed",
+                "weight": 120.0,
+                "measure": "1.0 serving 1/2 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "76",
+                        "gm": 63.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "3.80",
+                        "gm": 3.17
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.48",
+                        "gm": 0.4
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "14.28",
+                        "gm": 11.9
+                    }
+                ]
+            },
+            {
+                "ndbno": "06991",
+                "name": "HEALTHY REQUEST, Tomato Soup, condensed",
+                "weight": 124.0,
+                "measure": "1.0 serving 1/2 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "91",
+                        "gm": 73.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "9.99",
+                        "gm": 8.06
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "1.50",
+                        "gm": 1.21
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "17.00",
+                        "gm": 13.71
+                    }
+                ]
+            },
+            {
+                "ndbno": "06992",
+                "name": "HEALTHY REQUEST, Vegetable Soup, condensed",
+                "weight": 126.0,
+                "measure": "1.0 serving 1/2 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "100",
+                        "gm": 79.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "5.00",
+                        "gm": 3.97
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "1.00",
+                        "gm": 0.79
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "20.00",
+                        "gm": 15.87
+                    }
+                ]
+            },
+            {
+                "ndbno": "11961",
+                "name": "Hearts of palm, canned",
+                "weight": 146.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "41",
+                        "gm": 28.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.91",
+                        "gm": 0.62
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "6.75",
+                        "gm": 4.62
+                    }
+                ]
+            },
+            {
+                "ndbno": "18640",
+                "name": "HEINZ, WEIGHT WATCHER, Chocolate Eclair, frozen",
+                "weight": 59.0,
+                "measure": "1.0 eclair, frozen",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "142",
+                        "gm": 241.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "9.91",
+                        "gm": 16.8
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "4.07",
+                        "gm": 6.9
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "23.78",
+                        "gm": 40.3
+                    }
+                ]
+            },
+            {
+                "ndbno": "20030",
+                "name": "Hominy, canned, white",
+                "weight": 165.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "119",
+                        "gm": 72.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "3.00",
+                        "gm": 1.82
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "1.45",
+                        "gm": 0.88
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "23.53",
+                        "gm": 14.26
+                    }
+                ]
+            },
+            {
+                "ndbno": "20330",
+                "name": "Hominy, canned, yellow",
+                "weight": 160.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "115",
+                        "gm": 72.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "1.41",
+                        "gm": 0.88
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "22.82",
+                        "gm": 14.26
+                    }
+                ]
+            },
+            {
+                "ndbno": "19296",
+                "name": "Honey",
+                "weight": 339.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "1031",
+                        "gm": 304.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "278.39",
+                        "gm": 82.12
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "279.34",
+                        "gm": 82.4
+                    }
+                ]
+            },
+            {
+                "ndbno": "07088",
+                "name": "Honey roll sausage, beef",
+                "weight": 23.0,
+                "measure": "1.0 slice (4\" dia x 1/8\" thick)",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "42",
+                        "gm": 182.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "2.42",
+                        "gm": 10.5
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.50",
+                        "gm": 2.18
+                    }
+                ]
+            },
+            {
+                "ndbno": "10856",
+                "name": "HORMEL ALWAYS TENDER, Boneless Pork Loin, Fresh Pork",
+                "weight": 28.0,
+                "measure": "1.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "41",
+                        "gm": 145.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.02",
+                        "gm": 0.08
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "2.01",
+                        "gm": 7.18
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.21",
+                        "gm": 0.76
+                    }
+                ]
+            },
+            {
+                "ndbno": "10855",
+                "name": "HORMEL ALWAYS TENDER, Center Cut Chops, Fresh Pork",
+                "weight": 28.35,
+                "measure": "1.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "47",
+                        "gm": 167.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.08",
+                        "gm": 0.28
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "2.73",
+                        "gm": 9.62
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.24",
+                        "gm": 0.84
+                    }
+                ]
+            },
+            {
+                "ndbno": "10854",
+                "name": "HORMEL ALWAYS TENDER, Pork Loin Filets, Lemon Garlic-Flavored",
+                "weight": 28.0,
+                "measure": "1.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "33",
+                        "gm": 118.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.06",
+                        "gm": 0.22
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "1.16",
+                        "gm": 4.16
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.50",
+                        "gm": 1.79
+                    }
+                ]
+            },
+            {
+                "ndbno": "10853",
+                "name": "HORMEL ALWAYS TENDER, Pork Tenderloin, Peppercorn-Flavored",
+                "weight": 112.0,
+                "measure": "4.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "123",
+                        "gm": 110.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.16",
+                        "gm": 0.14
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "4.26",
+                        "gm": 3.8
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "2.04",
+                        "gm": 1.82
+                    }
+                ]
+            },
+            {
+                "ndbno": "10852",
+                "name": "HORMEL ALWAYS TENDER, Pork Tenderloin, Teriyaki-Flavored",
+                "weight": 112.0,
+                "measure": "4.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "133",
+                        "gm": 119.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "3.73",
+                        "gm": 3.33
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "3.44",
+                        "gm": 3.07
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "5.19",
+                        "gm": 4.63
+                    }
+                ]
+            },
+            {
+                "ndbno": "10857",
+                "name": "HORMEL Canadian Style Bacon",
+                "weight": 56.0,
+                "measure": "1.0 serving",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "68",
+                        "gm": 122.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.80",
+                        "gm": 1.43
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "2.77",
+                        "gm": 4.94
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "1.05",
+                        "gm": 1.87
+                    }
+                ]
+            },
+            {
+                "ndbno": "07278",
+                "name": "HORMEL Pillow Pak Sliced Turkey Pepperoni",
+                "weight": 30.0,
+                "measure": "1.0 serving",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "73",
+                        "gm": 243.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "3.46",
+                        "gm": 11.52
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "1.13",
+                        "gm": 3.78
+                    }
+                ]
+            },
+            {
+                "ndbno": "10851",
+                "name": "HORMEL, Cure 81 Ham",
+                "weight": 84.0,
+                "measure": "1.0 serving",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "89",
+                        "gm": 106.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.00",
+                        "gm": 0.0
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "3.02",
+                        "gm": 3.59
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.18",
+                        "gm": 0.21
+                    }
+                ]
+            },
+            {
+                "ndbno": "09451",
+                "name": "Horned melon (Kiwano)",
+                "weight": 233.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "103",
+                        "gm": 44.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "2.94",
+                        "gm": 1.26
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "17.61",
+                        "gm": 7.56
+                    }
+                ]
+            },
+            {
+                "ndbno": "02055",
+                "name": "Horseradish, prepared",
+                "weight": 5.0,
+                "measure": "1.0 tsp",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "2",
+                        "gm": 48.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.40",
+                        "gm": 7.99
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.03",
+                        "gm": 0.69
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.56",
+                        "gm": 11.29
+                    }
+                ]
+            },
+            {
+                "ndbno": "22537",
+                "name": "HOT POCKETS Ham 'N Cheese Stuffed Sandwich, frozen",
+                "weight": 127.0,
+                "measure": "1.0 serving (1 hot pocket)",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "306",
+                        "gm": 241.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "9.65",
+                        "gm": 7.6
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "11.61",
+                        "gm": 9.14
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "38.80",
+                        "gm": 30.55
+                    }
+                ]
+            },
+            {
+                "ndbno": "22535",
+                "name": "HOT POCKETS, CROISSANT POCKETS Chicken, Broccoli, and Cheddar Stuffed Sandwich, frozen",
+                "weight": 127.0,
+                "measure": "1.0 serving (1 hot pocket)",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "298",
+                        "gm": 235.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "9.65",
+                        "gm": 7.6
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "10.92",
+                        "gm": 8.6
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "38.61",
+                        "gm": 30.4
+                    }
+                ]
+            },
+            {
+                "ndbno": "22961",
+                "name": "HOT POCKETS, meatballs &amp; mozzarella stuffed sandwich, frozen",
+                "weight": 127.0,
+                "measure": "1.0 hot pocket (1 NLEA serving)",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "321",
+                        "gm": 253.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "9.82",
+                        "gm": 7.73
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "13.30",
+                        "gm": 10.47
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "38.67",
+                        "gm": 30.45
+                    }
+                ]
+            },
+            {
+                "ndbno": "16281",
+                "name": "HOUSE FOODS Premium Firm Tofu",
+                "weight": 56.0,
+                "measure": "2.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "48",
+                        "gm": 85.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.22",
+                        "gm": 0.4
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "2.35",
+                        "gm": 4.19
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "0.54",
+                        "gm": 0.97
+                    }
+                ]
+            },
+            {
+                "ndbno": "16279",
+                "name": "HOUSE FOODS Premium Soft Tofu",
+                "weight": 56.0,
+                "measure": "2.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "33",
+                        "gm": 59.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.30",
+                        "gm": 0.53
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "1.52",
+                        "gm": 2.71
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "1.23",
+                        "gm": 2.19
+                    }
+                ]
+            },
+            {
+                "ndbno": "16158",
+                "name": "Hummus, commercial",
+                "weight": 15.0,
+                "measure": "1.0 tbsp",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "25",
+                        "gm": 166.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "1.44",
+                        "gm": 9.6
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "2.14",
+                        "gm": 14.29
+                    }
+                ]
+            },
+            {
+                "ndbno": "16137",
+                "name": "Hummus, home prepared",
+                "weight": 15.0,
+                "measure": "1.0 tablespoon",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "27",
+                        "gm": 177.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.04",
+                        "gm": 0.27
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "1.29",
+                        "gm": 8.59
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "3.02",
+                        "gm": 20.12
+                    }
+                ]
+            },
+            {
+                "ndbno": "32034",
+                "name": "HUNGRY MAN, Salisbury Steak With Gravy, frozen, unprepared",
+                "weight": 64.0,
+                "measure": "1.0 patty",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "87",
+                        "gm": 136.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.12",
+                        "gm": 0.18
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "5.46",
+                        "gm": 8.53
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "4.45",
+                        "gm": 6.96
+                    }
+                ]
+            },
+            {
+                "ndbno": "18270",
+                "name": "Hush puppies, prepared from recipe",
+                "weight": 28.35,
+                "measure": "1.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "96",
+                        "gm": 337.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "0.58",
+                        "gm": 2.03
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "3.83",
+                        "gm": 13.5
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "13.04",
+                        "gm": 46.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "16368",
+                "name": "Hyacinth beans, mature seeds, cooked, boiled, with salt",
+                "weight": 194.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "227",
+                        "gm": 117.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "1.13",
+                        "gm": 0.58
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "40.16",
+                        "gm": 20.7
+                    }
+                ]
+            },
+            {
+                "ndbno": "16068",
+                "name": "Hyacinth beans, mature seeds, cooked, boiled, without salt",
+                "weight": 194.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "227",
+                        "gm": 117.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "1.13",
+                        "gm": 0.58
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "40.14",
+                        "gm": 20.69
+                    }
+                ]
+            },
+            {
+                "ndbno": "16067",
+                "name": "Hyacinth beans, mature seeds, raw",
+                "weight": 210.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "722",
+                        "gm": 344.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "3.55",
+                        "gm": 1.69
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "127.55",
+                        "gm": 60.74
+                    }
+                ]
+            },
+            {
+                "ndbno": "11788",
+                "name": "Hyacinth-beans, immature seeds, cooked, boiled, drained, with salt",
+                "weight": 87.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "44",
+                        "gm": 50.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.23",
+                        "gm": 0.27
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "8.00",
+                        "gm": 9.2
+                    }
+                ]
+            },
+            {
+                "ndbno": "11225",
+                "name": "Hyacinth-beans, immature seeds, cooked, boiled, drained, without salt",
+                "weight": 87.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "44",
+                        "gm": 50.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "--",
+                        "gm": "--"
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.23",
+                        "gm": 0.27
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "8.00",
+                        "gm": 9.2
+                    }
+                ]
+            },
+            {
+                "ndbno": "11224",
+                "name": "Hyacinth-beans, immature seeds, raw",
+                "weight": 80.0,
+                "measure": "1.0 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "37",
+                        "gm": 46.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "3.26",
+                        "gm": 4.08
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "0.16",
+                        "gm": 0.2
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "7.35",
+                        "gm": 9.19
+                    }
+                ]
+            },
+            {
+                "ndbno": "01264",
+                "name": "Ice cream bar, stick or nugget, with crunch coating",
+                "weight": 95.0,
+                "measure": "26.0 pieces",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "340",
+                        "gm": 358.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "20.00",
+                        "gm": 21.05
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "24.00",
+                        "gm": 25.26
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "35.26",
+                        "gm": 37.12
+                    }
+                ]
+            },
+            {
+                "ndbno": "01240",
+                "name": "Ice cream cone, chocolate covered, with nuts, flavors other than chocolate",
+                "weight": 96.0,
+                "measure": "1.0 unit",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "340",
+                        "gm": 354.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "24.00",
+                        "gm": 25.0
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "21.00",
+                        "gm": 21.88
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "33.00",
+                        "gm": 34.38
+                    }
+                ]
+            },
+            {
+                "ndbno": "18271",
+                "name": "Ice cream cones, cake or wafer-type",
+                "weight": 28.35,
+                "measure": "1.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "118",
+                        "gm": 417.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "1.70",
+                        "gm": 6.0
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "1.96",
+                        "gm": 6.9
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "22.40",
+                        "gm": 79.0
+                    }
+                ]
+            },
+            {
+                "ndbno": "18272",
+                "name": "Ice cream cones, sugar, rolled-type",
+                "weight": 28.35,
+                "measure": "1.0 oz",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "114",
+                        "gm": 402.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "7.27",
+                        "gm": 25.66
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "1.08",
+                        "gm": 3.8
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "23.84",
+                        "gm": 84.1
+                    }
+                ]
+            },
+            {
+                "ndbno": "01239",
+                "name": "Ice cream cookie sandwich",
+                "weight": 82.0,
+                "measure": "1.0 serving",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "197",
+                        "gm": 240.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "17.47",
+                        "gm": 21.3
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "6.07",
+                        "gm": 7.4
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "32.47",
+                        "gm": 39.6
+                    }
+                ]
+            },
+            {
+                "ndbno": "01238",
+                "name": "Ice cream sandwich",
+                "weight": 70.0,
+                "measure": "1.0 serving",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "166",
+                        "gm": 237.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "13.00",
+                        "gm": 18.57
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "6.00",
+                        "gm": 8.57
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "26.00",
+                        "gm": 37.14
+                    }
+                ]
+            },
+            {
+                "ndbno": "01241",
+                "name": "Ice cream sandwich, made with light ice cream, vanilla",
+                "weight": 70.0,
+                "measure": "1.0 serving",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "130",
+                        "gm": 186.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "12.50",
+                        "gm": 17.86
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "2.13",
+                        "gm": 3.04
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "27.75",
+                        "gm": 39.64
+                    }
+                ]
+            },
+            {
+                "ndbno": "01242",
+                "name": "Ice cream sandwich, vanilla, light, no sugar added",
+                "weight": 70.0,
+                "measure": "1.0 serving",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "140",
+                        "gm": 200.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "4.61",
+                        "gm": 6.58
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "2.00",
+                        "gm": 2.86
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "30.00",
+                        "gm": 42.86
+                    }
+                ]
+            },
+            {
+                "ndbno": "01237",
+                "name": "Ice cream, bar or stick, chocolate covered",
+                "weight": 50.0,
+                "measure": "1.0 bar",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "166",
+                        "gm": 331.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "9.15",
+                        "gm": 18.3
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "12.05",
+                        "gm": 24.1
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "12.25",
+                        "gm": 24.5
+                    }
+                ]
+            },
+            {
+                "ndbno": "01263",
+                "name": "Ice cream, light, soft serve, chocolate",
+                "weight": 298.0,
+                "measure": "1.0 medium",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "420",
+                        "gm": 141.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "57.99",
+                        "gm": 19.46
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "11.00",
+                        "gm": 3.69
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "68.99",
+                        "gm": 23.15
+                    }
+                ]
+            },
+            {
+                "ndbno": "01236",
+                "name": "Ice cream, soft serve, chocolate",
+                "weight": 86.0,
+                "measure": "0.5 cup",
+                "nutrients": [
+                    {
+                        "nutrient_id": "208",
+                        "nutrient": "Energy",
+                        "unit": "kcal",
+                        "value": "191",
+                        "gm": 222.0
+                    },
+                    {
+                        "nutrient_id": "269",
+                        "nutrient": "Sugars, total",
+                        "unit": "g",
+                        "value": "18.20",
+                        "gm": 21.16
+                    },
+                    {
+                        "nutrient_id": "204",
+                        "nutrient": "Total lipid (fat)",
+                        "unit": "g",
+                        "value": "11.18",
+                        "gm": 13.0
+                    },
+                    {
+                        "nutrient_id": "205",
+                        "nutrient": "Carbohydrate, by difference",
+                        "unit": "g",
+                        "value": "19.09",
+                        "gm": 22.2
+                    }
+                ]
+            }
+        ]
+    }
+}
