@@ -4,10 +4,9 @@
 
 @section('content')
 
-    <div class="diary">
-        @foreach ($ingredients as $ingredient)
-        <p> {{ $ingredient.name }} </p>
-        @endforeach
-    </div>
-    <p>end</p>
+    <form id="elasticScout" action="/SearchQuery" method="get">
+	     <div class="mysearchbar">
+	         <input name="search" placeholder="Search...">
+	     </div>
+	</form>
 @endsection

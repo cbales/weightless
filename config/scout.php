@@ -60,7 +60,7 @@ return [
     ],
 
     'elasticsearch' => [
-        'index' => env('ELASTICSEARCH_INDEX', 'ingredient'),
+        'index' => env('ELASTICSEARCH_INDEX', 'laravel'),
         'hosts' => [
             env('ELASTICSEARCH_HOST', 'http://localhost'),
         ],

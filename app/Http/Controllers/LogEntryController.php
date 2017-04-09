@@ -46,9 +46,6 @@ class LogEntryController extends Controller
 
 	public function search()
 	{
-		$ingredients = Ingredient::search('egg')->get();
-print_r($ingredients);
-
-		return view('search', ['ingredients' => $ingredients]);
+		return view('search');
 	}
 }
