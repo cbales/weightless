@@ -16,7 +16,7 @@ class LogEntryController extends Controller
 
 	public function add()
 	{
-		return view('addEntry', ['ingredients' => Ingredient::get(), 'units' => Unit::get()]);
+		return view('addEntry', ['ingredients' => null, 'units' => Unit::get()]);
 	}
 
 	public function save()

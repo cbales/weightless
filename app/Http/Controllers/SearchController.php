@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Ingredient;
+use App\Unit;
 
 class SearchController extends Controller
 {
@@ -12,6 +13,7 @@ class SearchController extends Controller
 	      
 	      $ingredients = Ingredient::search($request->input('search'))->get();
 	   }
-	   return view('search.results', compact('ingredients'));
+	   $units = Unit::get();
+	   return view('addEntry', array('ingredients' => $ingredients, 'units' => $units));
 	}
 }
