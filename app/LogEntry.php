@@ -9,6 +9,6 @@ class LogEntry extends Model
 {
     public function ingredient()
     {
-    	return $this->hasOne('App\Ingredient');
+    	return $this->belongsTo('App\Ingredient');
     }
 }

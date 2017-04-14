@@ -14,7 +14,7 @@
         </form>
 
         @if ($ingredientsInfo != null)
-        <form method="post">                
+        <form method="post" action="/entry/add">                
             <input type="hidden" name="_token" value="{{ csrf_token() }}">
             @foreach ($ingredientsInfo as $ingredientInfo)
                 <input type="checkbox" name="ingredient-{{ $ingredientInfo['ingredient']->id }}" value="{{ $ingredientInfo['ingredient']->id }}">

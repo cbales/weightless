@@ -19,7 +19,7 @@
 						<img src="img/walnuts.png" alt="walnuts" />
 					</div>
 					<div class="entry-name">
-						Walnuts
+						{{ $item->ingredient->name }}
 					</div>
 					<div class="entry-calories">
 						{{ $item->quantity }}

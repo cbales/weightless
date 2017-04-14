@@ -18,12 +18,7 @@ class LogController extends Controller
 
 		$logEntries = LogEntry::where('log_date', '>=', $today)->where('log_date', '<', $tomorrow)->get();
 
-		$breakfast = LogEntry::where('log_date', '>=', $today)->where('log_date', '<', $tomorrow)->where('category', 'Breakfast')->get();
-
-		// foreach ($breakfast as $item) {
-		// 	$ingredient = $item->getIngredient();
-		// 	echo $ingredient;
-		// }
+		$breakfast = LogEntry::where('log_date', '>=', $today)->where('log_date', '<', $tomorrow)->where('category', 'Breakfast')->with('Ingredient')->get();
 
 		$lunch = LogEntry::where('log_date', '>=', $today)->where('log_date', '<', $tomorrow)->where('category', 'Lunch')->get();
 
