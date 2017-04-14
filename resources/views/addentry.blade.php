@@ -13,18 +13,18 @@
             </div>
         </form>
 
-        @if ($ingredients != null)
+        @if ($ingredientsInfo != null)
         <form method="post">                
             <input type="hidden" name="_token" value="{{ csrf_token() }}">
-            @foreach ($ingredients as $ingredient)
-                <input type="checkbox" name="ingredient-{{ $ingredient->id }}" value="{{ $ingredient->id }}">
-                <input type="text" name="amount-ingredient-{{ $ingredient->id }}">
-                <select name="unit-ingredient-{{ $ingredient->id }}">
-                @foreach ($units as $unit)
+            @foreach ($ingredientsInfo as $ingredientInfo)
+                <input type="checkbox" name="ingredient-{{ $ingredientInfo['ingredient']->id }}" value="{{ $ingredientInfo['ingredient']->id }}">
+                <input type="text" name="amount-ingredient-{{ $ingredientInfo['ingredient']->id }}">
+                <select name="unit-ingredient-{{ $ingredientInfo['ingredient']->id }}">
+                @foreach ($ingredientInfo['units'] as $unit)
                     <option value="{{ $unit->id }}">{{ $unit->name }}</option>
                 @endforeach
                 </select>
-                {{ $ingredient->name }}<br />
+                {{ $ingredientInfo['ingredient']->name }}<br />
             @endforeach
             <input type="submit" value="add">
         @endif
