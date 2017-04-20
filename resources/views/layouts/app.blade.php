@@ -11,7 +11,15 @@
 			<div class="header">
 				<a href="/"><h1>weightless</h1></a>
 				<div class="menu">
-					<img src="/img/menu.png" alt="Menu" />
+					<div class="menu-item" id="active">
+						Log
+					</div>
+					<div class="menu-item">
+						Recipes
+					</div>
+					<div class="menu-item">
+						Goals
+					</div>
 				</div>
 			</div>
 			
