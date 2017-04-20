@@ -20,24 +20,32 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	max-width: 1200px;
-	border: 1px solid #edd3aa;
 	text-align: center;
 }
 
 .header {
-	background-color: #e6edec;
 	padding: 5px;
 }
 
 .header h1 {
-	text-align: center;
 	font-size: 1.5em;
-	color: #c1c1c1;
+	color: black;
 }
 
-.menu img {
-	height: 30px;
-	margin-top: -45px;
+.menu {
+	background-color: #eee;
+	color: black;
+
+	border-bottom: none;
+}
+.menu-item {
+	display: inline-block;
+	padding: 10px;
+}
+.menu-item#active {
+	background-color: black;
+	color: white;
+	font-weight: bold;
 }
 
 .content {
@@ -54,7 +62,7 @@ body {
 }
 
 .footer {
-	background-color: #e6edec;
+	background-color: black;
 	height: 40px;
 	position: absolute;
 	bottom: 0;
@@ -62,4 +70,16 @@ body {
 }
 a {
 	text-decoration: none;
+}
+.diary-day .nav, .diary-day .date {
+	display: inline-block;
+}
+
+.diary-day .nav {
+	background-color: black;
+	padding: 3px 5px;
+	margin: 10px;
+}
+.diary-day .nav a {
+	color: white;
 }
