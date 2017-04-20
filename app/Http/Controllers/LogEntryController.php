@@ -16,11 +16,15 @@ class LogEntryController extends Controller
 
 	public function add()
 	{
+		if (array_key_exists("entry-time", $_POST))
+			$this->time = $_POST['entry-time'];
+		
 		return view('addEntry', ['ingredientsInfo' => null, 'units' => Unit::get()]);
 	}
 
 	public function save()
 	{
+		$meal = $_POST['meal'];
 		foreach ($_POST as $response => $val)
 		{
 			if (stripos($response, 'ingredient-') === 0) {
@@ -34,7 +38,7 @@ class LogEntryController extends Controller
 				$logEntry = new LogEntry;
 				$logEntry->ingredient_id = $val;
 				$logEntry->log_date = date("Y-m-d H:i:s");
-				$logEntry->category = "Breakfast";
+				$logEntry->category = $meal;
 				$logEntry->quantity = $_POST["amount-ingredient-".$val];
 				$logEntry->calorie_unit_id = $calorieUnit->id;
 				$logEntry->user_id = 1;

@@ -11,9 +11,11 @@
 |
 */
 
-Route::get('/', 'LogController@show');
+Route::get('/', 'LogController@showDefault');
+Route::get('/log/{date}', 'LogController@show');
 
 Route::get('entry/add', 'LogEntryController@add');
+Route::post('entry', 'LogEntryController@add');
 Route::post('entry/add', 'LogEntryController@save');
 Route::get('entry/search', 'LogEntryController@search');
 

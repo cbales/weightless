@@ -16,6 +16,14 @@
         @if ($ingredientsInfo != null)
         <form method="post" action="/entry/add">                
             <input type="hidden" name="_token" value="{{ csrf_token() }}">
+
+            <select name="meal">
+                <option value="Breakfast">Breakfast</option>
+                <option value="Lunch">Lunch</option>
+                <option value="Dinner">Dinner</option>
+                <option value="Snacks">Snacks</option>
+            </select>
+            <br />
             @foreach ($ingredientsInfo as $ingredientInfo)
                 <input type="checkbox" name="ingredient-{{ $ingredientInfo['ingredient']->id }}" value="{{ $ingredientInfo['ingredient']->id }}">
                 <input type="text" name="amount-ingredient-{{ $ingredientInfo['ingredient']->id }}">
