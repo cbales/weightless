@@ -11,4 +11,9 @@ class LogEntry extends Model
     {
     	return $this->belongsTo('App\Ingredient');
     }
+
+    public function calorieUnit()
+    {
+    	return $this->belongsTo('App\CalorieUnit');
+    }
 }

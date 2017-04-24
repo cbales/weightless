@@ -28,6 +28,9 @@
 					<div class="entry-calories">
 						{{ $item->quantity }}
 					</div>
+                    <div class="entry-calories">
+                        {{ $item["calories"] }}
+                    </div>
 				</div>
 				@endforeach
                 <button name="entry-time" type="submit" value="breakfast"> + </button>
@@ -43,6 +46,9 @@
                     </div>
                     <div class="entry-calories">
                         {{ $item->quantity }}
+                    </div>
+                    <div class="entry-calories">
+                        {{ $item["calories"] }}
                     </div>
                 </div>
                 @endforeach
@@ -60,6 +66,9 @@
                     <div class="entry-calories">
                         {{ $item->quantity }}
                     </div>
+                    <div class="entry-calories">
+                        {{ $item["calories"] }}
+                    </div>
                 </div>
                 @endforeach
                 <button type="submit" value="dinner"> + </button>
@@ -76,11 +85,17 @@
                     <div class="entry-calories">
                         {{ $item->quantity }}
                     </div>
+                    <div class="entry-calories">
+                        {{ $item["calories"] }}
+                    </div>
                 </div>
                 @endforeach
                 <button type="submit" value="snacks"> + </button>
             </div>
         </div>
         </form>
+        <div class="totals">
+            {{ $dailyCalories }}
+        </div>
     </div>
 @endsection

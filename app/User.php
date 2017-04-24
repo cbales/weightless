@@ -30,4 +30,9 @@ class User extends Authenticatable
     public function logEntries() {
         return $this->hasMany('App\LogEntry');
     }
+
+    public function goal()
+    {
+        return $this->hasOne('App\Goal');
+    }
 }

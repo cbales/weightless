@@ -6,6 +6,8 @@ use App\LogEntry;
 use App\Ingredient;
 use App\Unit;
 use App\CalorieUnit;
+use App\User;
+use App\Goal;
 
 class LogEntryController extends Controller
 {
@@ -16,10 +18,11 @@ class LogEntryController extends Controller
 
 	public function add()
 	{
+		$time = "Breakfast";
 		if (array_key_exists("entry-time", $_POST))
-			$this->time = $_POST['entry-time'];
+			$time = $_POST['entry-time'];
 		
-		return view('addEntry', ['ingredientsInfo' => null, 'units' => Unit::get()]);
+		return view('addEntry', ['ingredientsInfo' => null, 'units' => Unit::get(), 'meal' => $time]);
 	}
 
 	public function save()
