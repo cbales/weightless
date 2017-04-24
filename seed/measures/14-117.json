@@ -1,0 +1,431 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "18957",
+            "name": "Cake, pound, BIMBO Bakeries USA, Panque Casero, home baked style",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "21.29",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.30"
+                        },
+                        {
+                            "label": "loaf",
+                            "eqv": 311.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "66.21"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "418",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "163"
+                        },
+                        {
+                            "label": "loaf",
+                            "eqv": 311.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1300"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "6.62",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.58"
+                        },
+                        {
+                            "label": "loaf",
+                            "eqv": 311.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20.59"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "21.70",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.46"
+                        },
+                        {
+                            "label": "loaf",
+                            "eqv": 311.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "67.49"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "48.94",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19.09"
+                        },
+                        {
+                            "label": "loaf",
+                            "eqv": 311.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "152.20"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.0",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.4"
+                        },
+                        {
+                            "label": "loaf",
+                            "eqv": 311.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "28.77",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.22"
+                        },
+                        {
+                            "label": "loaf",
+                            "eqv": 311.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "89.47"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "52",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20"
+                        },
+                        {
+                            "label": "loaf",
+                            "eqv": 311.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "162"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.51",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.59"
+                        },
+                        {
+                            "label": "loaf",
+                            "eqv": 311.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.70"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "13",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "loaf",
+                            "eqv": 311.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "40"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "119",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "46"
+                        },
+                        {
+                            "label": "loaf",
+                            "eqv": 311.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "370"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "101",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "39"
+                        },
+                        {
+                            "label": "loaf",
+                            "eqv": 311.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "314"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "357",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "139"
+                        },
+                        {
+                            "label": "loaf",
+                            "eqv": 311.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1110"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.59",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.23"
+                        },
+                        {
+                            "label": "loaf",
+                            "eqv": 311.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.83"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.080",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.031"
+                        },
+                        {
+                            "label": "loaf",
+                            "eqv": 311.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.249"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.150",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.058"
+                        },
+                        {
+                            "label": "loaf",
+                            "eqv": 311.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.466"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.620",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.242"
+                        },
+                        {
+                            "label": "loaf",
+                            "eqv": 311.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.928"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.030",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.012"
+                        },
+                        {
+                            "label": "loaf",
+                            "eqv": 311.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.093"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

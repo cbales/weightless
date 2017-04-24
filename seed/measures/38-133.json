@@ -1,0 +1,977 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "12119",
+            "name": "Nuts, coconut water (liquid from coconuts)",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "94.99",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "227.98"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.25"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "195.68"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "19",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "46"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "39"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.72",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.73"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.11"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.48"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.20",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.48"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.03"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.41"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.71",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.90"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.56"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.64"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.1",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.6"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.61",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.26"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.39"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.38"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "24",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "58"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "49"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.29",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.70"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.04"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.60"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "25",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "60"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "52"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "20",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "48"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "41"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "250",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "600"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "38"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "515"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "105",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "252"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "216"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.10",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.24"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.01"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.21"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "2.4",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.8"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.4"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.9"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.030",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.072"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.004"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.062"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.057",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.137"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.009"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.117"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.080",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.192"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.012"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.165"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.032",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.077"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.005"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.066"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "3",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.176",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.422"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.026"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.363"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.008",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.019"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.001"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.016"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.002",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.005"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.004"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "coconut yields",
+                            "eqv": 206.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

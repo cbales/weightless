@@ -1,0 +1,827 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "18936",
+            "name": "Pancakes, plain, frozen, ready-to-heat, microwave (includes buttermilk)",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "43.80",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.42"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16.64"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "63.07"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "239",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "68"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "91"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "344"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.88",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.67"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.23"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.47"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.73",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.34"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.80"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.81"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "43.33",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.28"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16.47"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "62.40"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.5",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.7"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.9"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.06",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.00"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.68"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.17"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "72",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "27"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "104"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.64",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.46"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.62"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "16",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "350",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "99"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "133"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "504"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "122",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "46"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "176"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "566",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "160"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "215"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "815"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.44",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.12"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.17"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.63"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.363",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.103"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.138"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.523"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.335",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.095"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.127"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.482"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "3.345",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.948"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.271"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.817"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.278",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.079"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.106"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.400"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "86",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "33"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "124"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "216",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "61"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "82"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "311"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "719",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "204"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "273"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1035"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.38",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.11"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.14"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.55"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "7.4",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.1"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.8"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.855",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.242"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.325"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.231"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.453",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.695"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.932"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.532"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.965",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.274"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.367"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.390"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "serving (3 pancakes)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

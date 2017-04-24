@@ -1,0 +1,1007 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "13349",
+            "name": "Beef, chuck, under blade pot roast or steak, boneless, separable lean only, trimmed to 0\" fat, select, raw",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "72.30",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "61.45"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "529.24"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "706.37"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "134",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "114"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "981"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1309"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "21.03",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "17.88"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "153.94"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "205.46"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.41",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "4.60"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "39.60"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "52.86"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.19",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.16"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.39"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.86"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "12",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "10"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "88"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "117"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.43",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "2.07"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17.79"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23.74"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "23",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "20"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "168"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "225"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "206",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "175"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1508"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2013"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "380",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "323"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2782"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3713"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "81",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "69"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "593"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "791"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "7.74",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "6.58"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "56.66"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "75.62"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.080",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.068"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.586"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.782"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.190",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.161"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.391"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.856"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "4.395",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "3.736"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32.171"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "42.939"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.454",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.386"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.323"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.436"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "3",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "29"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "2.89",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "2.46"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21.15"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28.24"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "2",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "7",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "6"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "51"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "68"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.18",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.15"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.32"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.76"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.1",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.7"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "3",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "29"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "1.5",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "1.3"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.0"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.572",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "2.186"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18.827"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25.128"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "5.868",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "4.988"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "42.954"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "57.330"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.615",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.523"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.502"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.009"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.307",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.261"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.247"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.999"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "66",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "56"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "483"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "645"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "steak",
+                            "eqv": 732.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 977.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

@@ -1,0 +1,369 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "28343",
+            "name": "Rolls, gluten-free, whole grain, made with tapioca starch and brown rice flour",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "29.90",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 44.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.16"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "329",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 44.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "145"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "11.80",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 44.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.19"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "11.60",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 44.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.10"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "44.29",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 44.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19.49"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "11.2",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 44.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.9"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.20",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 44.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.85"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "118",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 44.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "52"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.64",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 44.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.72"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "96",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 44.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "42"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "233",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 44.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "103"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "273",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 44.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "120"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "507",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 44.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "223"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.35",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 44.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.59"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.380",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 44.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.167"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.360",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 44.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.158"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "3.790",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 44.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.668"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.39",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 44.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.61"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.381",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 44.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.608"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "5.352",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 44.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.355"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "4.944",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 44.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.175"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.034",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 44.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.015"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

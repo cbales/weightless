@@ -1,0 +1,753 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "18267",
+            "name": "English muffins, whole-wheat, toasted",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "41.00",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.62"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25.01"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "221",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "63"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "135"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "9.60",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.72"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.86"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.30",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.65"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.40"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "44.10",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.50"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26.90"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.3",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.1"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "8.79",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.49"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "288",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "82"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "176"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.66",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.75"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.62"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "77",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "47"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "307",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "87"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "187"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "228",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "65"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "139"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "396",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "112"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "242"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.74",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.49"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.06"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.261",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.074"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.159"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.137",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.039"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.084"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "3.336",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.946"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.035"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.159",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.045"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.097"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "45",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "27"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.44",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.12"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.27"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "1.1",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.3"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.363",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.103"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.221"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.557",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.158"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.340"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.908",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.257"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.554"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "muffin",
+                            "eqv": 61.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

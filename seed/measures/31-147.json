@@ -1,0 +1,477 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "28111",
+            "name": "KEEBLER, READY CRUST, Chocolate Pie Crust",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.00",
+                    "measures": [
+                        {
+                            "label": "crust 1 serving (from 9\" shell)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 0.125,
+                            "value": "0.63"
+                        },
+                        {
+                            "label": "shell 1 serving (from 3\" mini shell)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.69"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "490",
+                    "measures": [
+                        {
+                            "label": "crust 1 serving (from 9\" shell)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 0.125,
+                            "value": "103"
+                        },
+                        {
+                            "label": "shell 1 serving (from 3\" mini shell)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "113"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.10",
+                    "measures": [
+                        {
+                            "label": "crust 1 serving (from 9\" shell)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 0.125,
+                            "value": "1.07"
+                        },
+                        {
+                            "label": "shell 1 serving (from 3\" mini shell)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.17"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "22.05",
+                    "measures": [
+                        {
+                            "label": "crust 1 serving (from 9\" shell)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 0.125,
+                            "value": "4.63"
+                        },
+                        {
+                            "label": "shell 1 serving (from 3\" mini shell)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.07"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "67.70",
+                    "measures": [
+                        {
+                            "label": "crust 1 serving (from 9\" shell)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 0.125,
+                            "value": "14.22"
+                        },
+                        {
+                            "label": "shell 1 serving (from 3\" mini shell)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.57"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.8",
+                    "measures": [
+                        {
+                            "label": "crust 1 serving (from 9\" shell)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 0.125,
+                            "value": "0.4"
+                        },
+                        {
+                            "label": "shell 1 serving (from 3\" mini shell)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "28.70",
+                    "measures": [
+                        {
+                            "label": "crust 1 serving (from 9\" shell)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 0.125,
+                            "value": "6.03"
+                        },
+                        {
+                            "label": "shell 1 serving (from 3\" mini shell)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.60"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.92",
+                    "measures": [
+                        {
+                            "label": "crust 1 serving (from 9\" shell)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 0.125,
+                            "value": "0.61"
+                        },
+                        {
+                            "label": "shell 1 serving (from 3\" mini shell)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.67"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "29",
+                    "measures": [
+                        {
+                            "label": "crust 1 serving (from 9\" shell)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 0.125,
+                            "value": "6"
+                        },
+                        {
+                            "label": "shell 1 serving (from 3\" mini shell)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "138",
+                    "measures": [
+                        {
+                            "label": "crust 1 serving (from 9\" shell)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 0.125,
+                            "value": "29"
+                        },
+                        {
+                            "label": "shell 1 serving (from 3\" mini shell)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "123",
+                    "measures": [
+                        {
+                            "label": "crust 1 serving (from 9\" shell)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 0.125,
+                            "value": "26"
+                        },
+                        {
+                            "label": "shell 1 serving (from 3\" mini shell)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "507",
+                    "measures": [
+                        {
+                            "label": "crust 1 serving (from 9\" shell)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 0.125,
+                            "value": "106"
+                        },
+                        {
+                            "label": "shell 1 serving (from 3\" mini shell)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "117"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.290",
+                    "measures": [
+                        {
+                            "label": "crust 1 serving (from 9\" shell)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 0.125,
+                            "value": "0.061"
+                        },
+                        {
+                            "label": "shell 1 serving (from 3\" mini shell)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.067"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.195",
+                    "measures": [
+                        {
+                            "label": "crust 1 serving (from 9\" shell)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 0.125,
+                            "value": "0.041"
+                        },
+                        {
+                            "label": "shell 1 serving (from 3\" mini shell)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.045"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "2.450",
+                    "measures": [
+                        {
+                            "label": "crust 1 serving (from 9\" shell)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 0.125,
+                            "value": "0.515"
+                        },
+                        {
+                            "label": "shell 1 serving (from 3\" mini shell)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.564"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "5.000",
+                    "measures": [
+                        {
+                            "label": "crust 1 serving (from 9\" shell)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 0.125,
+                            "value": "1.050"
+                        },
+                        {
+                            "label": "shell 1 serving (from 3\" mini shell)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.150"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "6.650",
+                    "measures": [
+                        {
+                            "label": "crust 1 serving (from 9\" shell)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 0.125,
+                            "value": "1.397"
+                        },
+                        {
+                            "label": "shell 1 serving (from 3\" mini shell)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.530"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.750",
+                    "measures": [
+                        {
+                            "label": "crust 1 serving (from 9\" shell)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 0.125,
+                            "value": "0.158"
+                        },
+                        {
+                            "label": "shell 1 serving (from 3\" mini shell)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.172"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "9.400",
+                    "measures": [
+                        {
+                            "label": "crust 1 serving (from 9\" shell)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 0.125,
+                            "value": "1.974"
+                        },
+                        {
+                            "label": "shell 1 serving (from 3\" mini shell)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.162"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "crust 1 serving (from 9\" shell)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 0.125,
+                            "value": "0"
+                        },
+                        {
+                            "label": "shell 1 serving (from 3\" mini shell)",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

@@ -1,0 +1,337 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "28123",
+            "name": "KEEBLER, 100 Calorie RIGHT BITES, White Fudge Dipped Pretzels",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.40",
+                    "measures": [
+                        {
+                            "label": "pouch",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.50"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "483",
+                    "measures": [
+                        {
+                            "label": "pouch",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "101"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.00",
+                    "measures": [
+                        {
+                            "label": "pouch",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.47"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "20.00",
+                    "measures": [
+                        {
+                            "label": "pouch",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.20"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "68.80",
+                    "measures": [
+                        {
+                            "label": "pouch",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.45"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.3",
+                    "measures": [
+                        {
+                            "label": "pouch",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "31.70",
+                    "measures": [
+                        {
+                            "label": "pouch",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.66"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "112",
+                    "measures": [
+                        {
+                            "label": "pouch",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.20",
+                    "measures": [
+                        {
+                            "label": "pouch",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.46"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "88",
+                    "measures": [
+                        {
+                            "label": "pouch",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "168",
+                    "measures": [
+                        {
+                            "label": "pouch",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "632",
+                    "measures": [
+                        {
+                            "label": "pouch",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "133"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.330",
+                    "measures": [
+                        {
+                            "label": "pouch",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.069"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.350",
+                    "measures": [
+                        {
+                            "label": "pouch",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.073"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "3.100",
+                    "measures": [
+                        {
+                            "label": "pouch",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.651"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "16.700",
+                    "measures": [
+                        {
+                            "label": "pouch",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.507"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.600",
+                    "measures": [
+                        {
+                            "label": "pouch",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.126"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.200",
+                    "measures": [
+                        {
+                            "label": "pouch",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.042"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.300",
+                    "measures": [
+                        {
+                            "label": "pouch",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.063"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "2",
+                    "measures": [
+                        {
+                            "label": "pouch",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

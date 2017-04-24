@@ -1,0 +1,353 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "28377",
+            "name": "PEPPERIDGE FARM, 100% Whole Wheat Hamburger Buns",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "37.10",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18.92"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "257",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "131"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.01",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.01"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.08",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.57"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "43.20",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22.03"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.9",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.10",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.60"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "195",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "99"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.71",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.38"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "104",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "53"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "371",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "189"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.0",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.270",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.138"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.280",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.143"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "4.450",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.270"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "99",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "50"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.840",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.428"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.570",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.291"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.530",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.780"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "1",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

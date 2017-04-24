@@ -1,0 +1,615 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "17206",
+            "name": "Lamb, variety meats and by-products, lungs, cooked, braised",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "75.83",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "64.46"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "288.91"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "113",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "96"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "431"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "19.88",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "16.90"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "75.74"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.10",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "2.63"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.81"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "12",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "10"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "46"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "4.57",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "3.88"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17.41"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "11",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "9"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "42"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "188",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "160"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "716"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "127",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "108"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "484"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "84",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "71"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "320"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.93",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "1.64"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.35"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "28.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "23.8"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "106.7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.034",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.029"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.130"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.139",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.118"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.530"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "2.428",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "2.064"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.251"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.060",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.051"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.229"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "8",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "7"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "2.52",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "2.14"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.60"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "32",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "27"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "122"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "106",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "90"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "404"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.060",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.901"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.039"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.800",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.680"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.048"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.430",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.365"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.638"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "284",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "241"
+                        },
+                        {
+                            "label": "unit, cooked (yield from 1 lb raw meat)",
+                            "eqv": 381.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1082"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

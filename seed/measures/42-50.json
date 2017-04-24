@@ -1,0 +1,385 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "18629",
+            "name": "PILLSBURY, Buttermilk Biscuits, Artificial Flavor, refrigerated dough",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "39.89",
+                    "measures": [
+                        {
+                            "label": "biscuit",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25.53"
+                        },
+                        {
+                            "label": "serving",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25.53"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "236",
+                    "measures": [
+                        {
+                            "label": "biscuit",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "151"
+                        },
+                        {
+                            "label": "serving",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "151"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "6.40",
+                    "measures": [
+                        {
+                            "label": "biscuit",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.10"
+                        },
+                        {
+                            "label": "serving",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.10"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.79",
+                    "measures": [
+                        {
+                            "label": "biscuit",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.79"
+                        },
+                        {
+                            "label": "serving",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.79"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "47.07",
+                    "measures": [
+                        {
+                            "label": "biscuit",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30.12"
+                        },
+                        {
+                            "label": "serving",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30.12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.6",
+                    "measures": [
+                        {
+                            "label": "biscuit",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.0"
+                        },
+                        {
+                            "label": "serving",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.46",
+                    "measures": [
+                        {
+                            "label": "biscuit",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.85"
+                        },
+                        {
+                            "label": "serving",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.85"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "23",
+                    "measures": [
+                        {
+                            "label": "biscuit",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        },
+                        {
+                            "label": "serving",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.60",
+                    "measures": [
+                        {
+                            "label": "biscuit",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.66"
+                        },
+                        {
+                            "label": "serving",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.66"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "854",
+                    "measures": [
+                        {
+                            "label": "biscuit",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "547"
+                        },
+                        {
+                            "label": "serving",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "547"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "biscuit",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "serving",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "biscuit",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "serving",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "biscuit",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "serving",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.420",
+                    "measures": [
+                        {
+                            "label": "biscuit",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.269"
+                        },
+                        {
+                            "label": "serving",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.269"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.590",
+                    "measures": [
+                        {
+                            "label": "biscuit",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.378"
+                        },
+                        {
+                            "label": "serving",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.378"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "biscuit",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "serving",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

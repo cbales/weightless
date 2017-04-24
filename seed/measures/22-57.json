@@ -1,0 +1,1201 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "18170",
+            "name": "Cookies, fig bars",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "16.50",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.68"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.09"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.64"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.40"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "348",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "99"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "150"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "56"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "198"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.70",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.05"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.59"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.59"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.11"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.30",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.07"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.14"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.17"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.16"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "70.90",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20.10"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30.49"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.34"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "40.41"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.6",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.3"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.0"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.7"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "46.36",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.14"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19.93"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.42"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26.43"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "64",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.90",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.82"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.25"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.46"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.65"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "27",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "62",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "27"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "207",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "59"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "89"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "33"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "118"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "350",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "99"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "150"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "56"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "200"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.39",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.11"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.17"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.06"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.22"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.3",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.158",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.045"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.068"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.025"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.090"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.217",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.062"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.093"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.035"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.124"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.874",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.531"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.806"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.300"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.068"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.075",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.021"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.032"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.012"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.043"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "53",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.09",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.03"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.04"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.01"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.05"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "9",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "33",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.65",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.18"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.28"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.10"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.37"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "5.8",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.6"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.5"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.9"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.123",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.318"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.483"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.180"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.640"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.003",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.851"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.291"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.480"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.712"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.772",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.786"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.192"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.444"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.580"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "Figaroo (2 square halves)",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cookie",
+                            "eqv": 16.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "individual package (2 oz package containing 2 3\" bars)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

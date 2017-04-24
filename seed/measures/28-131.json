@@ -1,0 +1,353 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "28033",
+            "name": "GIRL SCOUTS, Tagalongs Cookies",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.80",
+                    "measures": [
+                        {
+                            "label": "cookies",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "0.45"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "558",
+                    "measures": [
+                        {
+                            "label": "cookies",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "140"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "8.10",
+                    "measures": [
+                        {
+                            "label": "cookies",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "2.02"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "35.30",
+                    "measures": [
+                        {
+                            "label": "cookies",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "8.82"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "52.20",
+                    "measures": [
+                        {
+                            "label": "cookies",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "13.05"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.5",
+                    "measures": [
+                        {
+                            "label": "cookies",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "0.9"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "30.90",
+                    "measures": [
+                        {
+                            "label": "cookies",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "7.72"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.10",
+                    "measures": [
+                        {
+                            "label": "cookies",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "0.53"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "17",
+                    "measures": [
+                        {
+                            "label": "cookies",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "37",
+                    "measures": [
+                        {
+                            "label": "cookies",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "9"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "217",
+                    "measures": [
+                        {
+                            "label": "cookies",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "54"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "371",
+                    "measures": [
+                        {
+                            "label": "cookies",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "93"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.20",
+                    "measures": [
+                        {
+                            "label": "cookies",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "0.05"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.140",
+                    "measures": [
+                        {
+                            "label": "cookies",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "0.035"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.090",
+                    "measures": [
+                        {
+                            "label": "cookies",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "0.022"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "4.500",
+                    "measures": [
+                        {
+                            "label": "cookies",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "1.125"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "19.200",
+                    "measures": [
+                        {
+                            "label": "cookies",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "4.800"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "8.400",
+                    "measures": [
+                        {
+                            "label": "cookies",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "2.100"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "6.300",
+                    "measures": [
+                        {
+                            "label": "cookies",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "1.575"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.270",
+                    "measures": [
+                        {
+                            "label": "cookies",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "0.068"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cookies",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

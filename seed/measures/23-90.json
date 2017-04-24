@@ -1,0 +1,753 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "18230",
+            "name": "Crackers, standard snack-type, sandwich, with cheese filling",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.90",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.55"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.27"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "477",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "68"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "33"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "9.30",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "1.32"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.65"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "21.10",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "3.00"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.48"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "61.70",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "8.76"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.32"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.9",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.3"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.18",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.45"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.22"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "257",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "36"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.39",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.34"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.17"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "36",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "5"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "406",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "58"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "429",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "61"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "978",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "139"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "68"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.62",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.09"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.04"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.1",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.446",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.063"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.031"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.684",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.097"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.048"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "3.766",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.535"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.264"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.049",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.007"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.003"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "160",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "23"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.10",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.01"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.01"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "17",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "2"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "62",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "9"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.22",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.03"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.02"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "8.3",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "1.2"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "6.125",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.870"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.429"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "11.254",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "1.598"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.788"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.567",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.365"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.180"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "2",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 14.2,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cracker, sandwich",
+                            "eqv": 7.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

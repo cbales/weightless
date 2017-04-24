@@ -1,0 +1,779 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "16359",
+            "name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "66.87",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "169.85"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "101.64"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "138",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "351"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "210"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.04",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17.88"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.70"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.47",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.27"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.75"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "22.87",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "58.09"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "34.76"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "6.3",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16.0"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.00",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.16"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.08"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "43",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "109"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "65"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.98",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.49"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.49"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "24",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "61"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "80",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "203"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "122"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "109",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "277"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "166"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "212",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "538"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "322"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.59",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.50"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.90"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.1",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.3"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.025",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.064"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.038"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.015",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.038"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.023"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.125",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.318"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.190"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.116",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.295"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.176"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "41",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "104"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "62"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "1",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "22",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "56"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "33"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.29",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.74"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.44"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "3.4",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.6"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.213",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.541"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.324"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.485",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.232"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.737"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.962",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.443"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.462"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "can drained, rinsed",
+                            "eqv": 254.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup drained, rinsed",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            {
+                "id": "a",
+                "desc": "Value based on the analysis of 5-methyltetrahydrofolate, 10-Formyl folic acid, 5-Formyltetrahydrofolic acid"
+            }
+        ]
+    }
+}

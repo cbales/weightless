@@ -1,0 +1,337 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "28268",
+            "name": "KEEBLER, Sugar Cones",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.00",
+                    "measures": [
+                        {
+                            "label": "cone",
+                            "eqv": 13.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.13"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "375",
+                    "measures": [
+                        {
+                            "label": "cone",
+                            "eqv": 13.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "49"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.30",
+                    "measures": [
+                        {
+                            "label": "cone",
+                            "eqv": 13.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.95"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.70",
+                    "measures": [
+                        {
+                            "label": "cone",
+                            "eqv": 13.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.48"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "78.00",
+                    "measures": [
+                        {
+                            "label": "cone",
+                            "eqv": 13.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.14"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.1",
+                    "measures": [
+                        {
+                            "label": "cone",
+                            "eqv": 13.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "26.40",
+                    "measures": [
+                        {
+                            "label": "cone",
+                            "eqv": 13.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.43"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "3.20",
+                    "measures": [
+                        {
+                            "label": "cone",
+                            "eqv": 13.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.42"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "9",
+                    "measures": [
+                        {
+                            "label": "cone",
+                            "eqv": 13.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2",
+                    "measures": [
+                        {
+                            "label": "cone",
+                            "eqv": 13.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "119",
+                    "measures": [
+                        {
+                            "label": "cone",
+                            "eqv": 13.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "326",
+                    "measures": [
+                        {
+                            "label": "cone",
+                            "eqv": 13.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "42"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.420",
+                    "measures": [
+                        {
+                            "label": "cone",
+                            "eqv": 13.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.055"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.280",
+                    "measures": [
+                        {
+                            "label": "cone",
+                            "eqv": 13.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.036"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "3.700",
+                    "measures": [
+                        {
+                            "label": "cone",
+                            "eqv": 13.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.481"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.800",
+                    "measures": [
+                        {
+                            "label": "cone",
+                            "eqv": 13.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.104"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.000",
+                    "measures": [
+                        {
+                            "label": "cone",
+                            "eqv": 13.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.260"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.800",
+                    "measures": [
+                        {
+                            "label": "cone",
+                            "eqv": 13.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.104"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "cone",
+                            "eqv": 13.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cone",
+                            "eqv": 13.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

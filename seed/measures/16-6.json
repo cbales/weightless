@@ -1,0 +1,557 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "19075",
+            "name": "Candies, CARAMELLO Candy Bar",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "6.79",
+                    "measures": [
+                        {
+                            "label": "bar 1.25 oz",
+                            "eqv": 35.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.38"
+                        },
+                        {
+                            "label": "bar 1.6 oz",
+                            "eqv": 45.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.06"
+                        },
+                        {
+                            "label": "blocks",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 6.0,
+                            "value": "2.92"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "462",
+                    "measures": [
+                        {
+                            "label": "bar 1.25 oz",
+                            "eqv": 35.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "162"
+                        },
+                        {
+                            "label": "bar 1.6 oz",
+                            "eqv": 45.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "208"
+                        },
+                        {
+                            "label": "blocks",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 6.0,
+                            "value": "199"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "6.19",
+                    "measures": [
+                        {
+                            "label": "bar 1.25 oz",
+                            "eqv": 35.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.17"
+                        },
+                        {
+                            "label": "bar 1.6 oz",
+                            "eqv": 45.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.79"
+                        },
+                        {
+                            "label": "blocks",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 6.0,
+                            "value": "2.66"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "21.19",
+                    "measures": [
+                        {
+                            "label": "bar 1.25 oz",
+                            "eqv": 35.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.42"
+                        },
+                        {
+                            "label": "bar 1.6 oz",
+                            "eqv": 45.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.54"
+                        },
+                        {
+                            "label": "blocks",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 6.0,
+                            "value": "9.11"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "63.81",
+                    "measures": [
+                        {
+                            "label": "bar 1.25 oz",
+                            "eqv": 35.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22.33"
+                        },
+                        {
+                            "label": "bar 1.6 oz",
+                            "eqv": 45.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28.71"
+                        },
+                        {
+                            "label": "blocks",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 6.0,
+                            "value": "27.44"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.2",
+                    "measures": [
+                        {
+                            "label": "bar 1.25 oz",
+                            "eqv": 35.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.4"
+                        },
+                        {
+                            "label": "bar 1.6 oz",
+                            "eqv": 45.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.5"
+                        },
+                        {
+                            "label": "blocks",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 6.0,
+                            "value": "0.5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "56.92",
+                    "measures": [
+                        {
+                            "label": "bar 1.25 oz",
+                            "eqv": 35.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19.92"
+                        },
+                        {
+                            "label": "bar 1.6 oz",
+                            "eqv": 45.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25.61"
+                        },
+                        {
+                            "label": "blocks",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 6.0,
+                            "value": "24.48"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "213",
+                    "measures": [
+                        {
+                            "label": "bar 1.25 oz",
+                            "eqv": 35.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "75"
+                        },
+                        {
+                            "label": "bar 1.6 oz",
+                            "eqv": 45.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "96"
+                        },
+                        {
+                            "label": "blocks",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 6.0,
+                            "value": "92"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.09",
+                    "measures": [
+                        {
+                            "label": "bar 1.25 oz",
+                            "eqv": 35.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.38"
+                        },
+                        {
+                            "label": "bar 1.6 oz",
+                            "eqv": 45.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.49"
+                        },
+                        {
+                            "label": "blocks",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 6.0,
+                            "value": "0.47"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "150",
+                    "measures": [
+                        {
+                            "label": "bar 1.25 oz",
+                            "eqv": 35.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "52"
+                        },
+                        {
+                            "label": "bar 1.6 oz",
+                            "eqv": 45.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "68"
+                        },
+                        {
+                            "label": "blocks",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 6.0,
+                            "value": "64"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "341",
+                    "measures": [
+                        {
+                            "label": "bar 1.25 oz",
+                            "eqv": 35.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "119"
+                        },
+                        {
+                            "label": "bar 1.6 oz",
+                            "eqv": 45.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "153"
+                        },
+                        {
+                            "label": "blocks",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 6.0,
+                            "value": "147"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "122",
+                    "measures": [
+                        {
+                            "label": "bar 1.25 oz",
+                            "eqv": 35.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "43"
+                        },
+                        {
+                            "label": "bar 1.6 oz",
+                            "eqv": 45.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "55"
+                        },
+                        {
+                            "label": "blocks",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 6.0,
+                            "value": "52"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.7",
+                    "measures": [
+                        {
+                            "label": "bar 1.25 oz",
+                            "eqv": 35.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.6"
+                        },
+                        {
+                            "label": "bar 1.6 oz",
+                            "eqv": 45.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.8"
+                        },
+                        {
+                            "label": "blocks",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 6.0,
+                            "value": "0.7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "303",
+                    "measures": [
+                        {
+                            "label": "bar 1.25 oz",
+                            "eqv": 35.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "106"
+                        },
+                        {
+                            "label": "bar 1.6 oz",
+                            "eqv": 45.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "136"
+                        },
+                        {
+                            "label": "blocks",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 6.0,
+                            "value": "130"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "12.720",
+                    "measures": [
+                        {
+                            "label": "bar 1.25 oz",
+                            "eqv": 35.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.452"
+                        },
+                        {
+                            "label": "bar 1.6 oz",
+                            "eqv": 45.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.724"
+                        },
+                        {
+                            "label": "blocks",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 6.0,
+                            "value": "5.470"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "5.290",
+                    "measures": [
+                        {
+                            "label": "bar 1.25 oz",
+                            "eqv": 35.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.852"
+                        },
+                        {
+                            "label": "bar 1.6 oz",
+                            "eqv": 45.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.381"
+                        },
+                        {
+                            "label": "blocks",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 6.0,
+                            "value": "2.275"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.630",
+                    "measures": [
+                        {
+                            "label": "bar 1.25 oz",
+                            "eqv": 35.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.221"
+                        },
+                        {
+                            "label": "bar 1.6 oz",
+                            "eqv": 45.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.284"
+                        },
+                        {
+                            "label": "blocks",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 6.0,
+                            "value": "0.271"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "27",
+                    "measures": [
+                        {
+                            "label": "bar 1.25 oz",
+                            "eqv": 35.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9"
+                        },
+                        {
+                            "label": "bar 1.6 oz",
+                            "eqv": 45.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        },
+                        {
+                            "label": "blocks",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 6.0,
+                            "value": "12"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

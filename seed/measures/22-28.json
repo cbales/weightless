@@ -1,0 +1,1201 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "28399",
+            "name": "Cookies, animal crackers (includes arrowroot, tea biscuits)",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.90",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.11"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.19"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.10"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.22"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "446",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "126"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "254"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "6.90",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.96"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.34"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.17"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.93"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "13.80",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.91"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.68"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.34"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.87"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "74.10",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21.01"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.63"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.85"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "42.24"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.1",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.3"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "23.30",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.61"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.14"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.58"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.28"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "43",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.75",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.78"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.13"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.57"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "18",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "114",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "65"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "100",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "57"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "407",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "115"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "232"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.64",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.18"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.03"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.02"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.350",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.099"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.017"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.009"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.199"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.326",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.092"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.016"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.008"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.186"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "3.470",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.984"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.170"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.087"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.978"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.022",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.006"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.001"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.001"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.013"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "165",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "47"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "94"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.05",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.01"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.03"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.12",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.03"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.01"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "5.9",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.7"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.3"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.463",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.982"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.170"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.087"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.974"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "7.666",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.173"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.376"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.192"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.370"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.873",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.531"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.092"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.047"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.068"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "Arrowroot biscuit (include Arrowroot cookie)",
+                            "eqv": 4.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cracker",
+                            "eqv": 2.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "individual box (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

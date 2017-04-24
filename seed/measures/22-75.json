@@ -1,0 +1,977 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "18178",
+            "name": "Cookies, oatmeal, commercially prepared, regular",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.70",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.62"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.43"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.03"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "450",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "128"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "112"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "81"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "6.20",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.76"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.55"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "18.10",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.13"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.53"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.26"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "68.70",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19.48"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17.18"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.37"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.8",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.8"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.7"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "24.66",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.99"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.17"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.44"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "37",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.58",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.73"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.65"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.46"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "33",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "138",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "39"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "34"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "142",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "40"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "36"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "383",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "109"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "96"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "69"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.79",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.22"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.20"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.14"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.5",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.267",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.076"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.067"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.048"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.230",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.065"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.058"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.041"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "2.227",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.631"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.557"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.401"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.066",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.019"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.017"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.012"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "95",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "27"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "5",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "18",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.26",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.05"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "8.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.3"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.0"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "4.519",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.281"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.130"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.813"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "10.025",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.842"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.506"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.805"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.543",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.721"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.636"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.458"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cookie, big (3-1/2\" - 4\" dia) (include Archway brand, Grandma brand)",
+                            "eqv": 25.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "large",
+                            "eqv": 18.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

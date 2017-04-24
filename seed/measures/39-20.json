@@ -1,0 +1,305 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "12156",
+            "name": "Nuts, walnuts, glazed",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "6.28",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.76"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "500",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "140"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "8.28",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.32"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "35.71",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "47.59",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.33"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.6",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "32.14",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "71",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.29",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "232",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "65"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "446",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "125"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.571",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "5.357",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.500"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "25.000",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

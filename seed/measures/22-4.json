@@ -1,0 +1,273 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "14197",
+            "name": "Cocoa mix, NESTLE, Rich Chocolate Hot Cocoa Mix",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.73",
+                    "measures": [
+                        {
+                            "label": "serving 1 envelope",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.75"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "400",
+                    "measures": [
+                        {
+                            "label": "serving 1 envelope",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "80"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.00",
+                    "measures": [
+                        {
+                            "label": "serving 1 envelope",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.60"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "15.00",
+                    "measures": [
+                        {
+                            "label": "serving 1 envelope",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "75.00",
+                    "measures": [
+                        {
+                            "label": "serving 1 envelope",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.0",
+                    "measures": [
+                        {
+                            "label": "serving 1 envelope",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.8"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "60.00",
+                    "measures": [
+                        {
+                            "label": "serving 1 envelope",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "100",
+                    "measures": [
+                        {
+                            "label": "serving 1 envelope",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.80",
+                    "measures": [
+                        {
+                            "label": "serving 1 envelope",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving 1 envelope",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "850",
+                    "measures": [
+                        {
+                            "label": "serving 1 envelope",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "170"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "serving 1 envelope",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "11",
+                    "measures": [
+                        {
+                            "label": "serving 1 envelope",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "10.000",
+                    "measures": [
+                        {
+                            "label": "serving 1 envelope",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.250",
+                    "measures": [
+                        {
+                            "label": "serving 1 envelope",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.050"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving 1 envelope",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

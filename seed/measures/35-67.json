@@ -1,0 +1,827 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "21292",
+            "name": "LITTLE CAESARS 14\" Cheese Pizza, Thin Crust",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "41.21",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19.78"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "231.60"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "149.18"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "309",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "148"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1737"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "1119"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "16.23",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.79"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "91.21"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "58.75"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "16.99",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.16"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "95.48"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "61.50"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "22.85",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.97"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "128.42"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "82.72"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.6",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.8"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.0"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "5.8"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.76",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.32"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.51"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "9.99"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "422",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "203"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2372"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "1528"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.64",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.31"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.60"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "2.32"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "28",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "157"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "101"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "297",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "143"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1669"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "1075"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "177",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "85"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "995"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "641"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "455",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "218"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2557"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "1647"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.12",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.02"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.91"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "7.67"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.139",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.067"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.781"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.503"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.185",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.089"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.040"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.670"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.850",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.408"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.777"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "3.077"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.71",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.34"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.99"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "2.57"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "123",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "59"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "691"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "445"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "542",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "260"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3046"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "1962"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.21",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.58"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.80"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "4.38"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "9.6",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.6"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "54.0"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "34.8"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "7.327",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.517"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "41.178"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "26.524"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "4.420",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.122"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24.840"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "16.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.161",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.517"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17.765"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "11.443"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "39",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 48.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 562.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "219"
+                        },
+                        {
+                            "label": "pie",
+                            "eqv": 362.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "141"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

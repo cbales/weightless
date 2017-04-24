@@ -1,0 +1,827 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "21437",
+            "name": "KFC, Fried Chicken, ORIGINAL RECIPE, Wing, meat and skin with breading",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "46.40",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "27.84"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18.10"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.67"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "297",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "178"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "116"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "68"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "21.70",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.02"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.46"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.99"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "18.90",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.34"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.37"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.35"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "9.93",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.96"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.87"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.28"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "77",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "46"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.93",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.56"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.36"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.21"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "24",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "250",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "150"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "98"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "58"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "266",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "160"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "104"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "61"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "884",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "530"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "345"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "203"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.36",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.82"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.53"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.31"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.072",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.043"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.028"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.017"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.221",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.133"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.086"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.051"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "6.335",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.801"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.471"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.457"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.188",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.113"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.073"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.043"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.39",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.23"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.15"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.09"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "14",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "48",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "29"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.92",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.55"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.36"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.21"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "4.251",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.551"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.658"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.978"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "9.595",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.757"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.742"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.207"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.669",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.201"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.431"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.844"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.127",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.076"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.050"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.029"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "113",
+                    "measures": [
+                        {
+                            "label": "wing, with skin",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "68"
+                        },
+                        {
+                            "label": "wing, without skin",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "44"
+                        },
+                        {
+                            "label": "wing, bone and skin removed",
+                            "eqv": 23.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

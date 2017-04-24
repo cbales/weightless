@@ -1,0 +1,1238 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "19160",
+            "name": "Candies, MARS SNACKFOOD US, TWIX Caramel Cookie Bars",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.23",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.41"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.45"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.02"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.20"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "502",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "286"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "291"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "477"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1566"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.91",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.80"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.85"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.66"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.32"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "24.85",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.16"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.41"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23.61"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "77.53"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "64.80",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "36.94"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "37.58"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "61.56"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "202.18"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.1",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.6"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.6"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.0"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "48.25",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "27.50"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "27.98"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "45.84"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "150.54"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "106",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "60"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "61"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "101"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "331"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.81",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.46"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.47"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.77"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.53"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "27",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "84"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "105",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "60"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "61"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "100"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "328"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "186",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "106"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "108"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "177"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "580"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "198",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "113"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "115"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "188"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "618"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.06",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.60"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.61"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.01"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.31"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.6",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.3"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.3"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.6"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.9"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.155",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.088"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.090"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.147"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.484"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.208",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.119"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.121"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.198"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.649"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.109",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.632"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.643"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.054"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.460"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.025",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.014"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.015"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.024"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.078"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "39",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "37"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "122"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.33",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.19"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.19"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.31"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.03"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "20",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "62"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "67",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "38"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "39"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "64"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "209"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.74",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.42"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.43"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.70"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.31"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "5.6",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.2"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.2"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.3"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17.5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "18.960",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.807"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.997"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18.012"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "59.155"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.988",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.703"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.733"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.839"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.323"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.628",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.358"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.364"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.597"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.959"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.342",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.195"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.198"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.325"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.067"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "7",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "7",
+                    "measures": [
+                        {
+                            "label": "package (2 oz)",
+                            "eqv": 57.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "package (2.06 oz, 2 bars)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "package, king size (3.35 oz, 4 bars)",
+                            "eqv": 95.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        },
+                        {
+                            "label": "package (11 oz)",
+                            "eqv": 312.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

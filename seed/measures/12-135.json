@@ -1,0 +1,498 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "14434",
+            "name": "Beverages, The COCA-COLA company, DASANI, water, bottled, non-carbonated",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "99.96",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "29.59"
+                        },
+                        {
+                            "label": "bottle 16.9 fl oz",
+                            "eqv": 500.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "499.80"
+                        },
+                        {
+                            "label": "bottle 12 fl oz",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "354.86"
+                        },
+                        {
+                            "label": "bottle 20 fl oz",
+                            "eqv": 591.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "590.76"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "bottle 16.9 fl oz",
+                            "eqv": 500.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "bottle 12 fl oz",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "bottle 20 fl oz",
+                            "eqv": 591.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "bottle 16.9 fl oz",
+                            "eqv": 500.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "bottle 12 fl oz",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "bottle 20 fl oz",
+                            "eqv": 591.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "bottle 16.9 fl oz",
+                            "eqv": 500.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "bottle 12 fl oz",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "bottle 20 fl oz",
+                            "eqv": 591.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "bottle 16.9 fl oz",
+                            "eqv": 500.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "bottle 12 fl oz",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "bottle 20 fl oz",
+                            "eqv": 591.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "bottle 16.9 fl oz",
+                            "eqv": 500.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "bottle 12 fl oz",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "bottle 20 fl oz",
+                            "eqv": 591.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "bottle 16.9 fl oz",
+                            "eqv": 500.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "bottle 12 fl oz",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "bottle 20 fl oz",
+                            "eqv": 591.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "bottle 16.9 fl oz",
+                            "eqv": 500.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "bottle 12 fl oz",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "bottle 20 fl oz",
+                            "eqv": 591.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "bottle 16.9 fl oz",
+                            "eqv": 500.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "bottle 12 fl oz",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "bottle 20 fl oz",
+                            "eqv": 591.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "bottle 16.9 fl oz",
+                            "eqv": 500.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "bottle 12 fl oz",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "bottle 20 fl oz",
+                            "eqv": 591.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "bottle 16.9 fl oz",
+                            "eqv": 500.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "bottle 12 fl oz",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "bottle 20 fl oz",
+                            "eqv": 591.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "bottle 16.9 fl oz",
+                            "eqv": 500.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "bottle 12 fl oz",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "bottle 20 fl oz",
+                            "eqv": 591.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "bottle 16.9 fl oz",
+                            "eqv": 500.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "bottle 12 fl oz",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "bottle 20 fl oz",
+                            "eqv": 591.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

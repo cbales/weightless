@@ -1,0 +1,1469 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "18288",
+            "name": "Pancakes plain, frozen, ready-to-heat (includes buttermilk)",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "48.37",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.71"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19.83"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35.31"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.89"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19.35"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "233",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "66"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "96"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "170"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "93"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.23",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.48"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.14"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.82"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.53"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.09"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "6.83",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.94"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.80"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.99"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.69"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.73"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "37.75",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.70"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.48"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "27.56"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.81"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.10"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.3"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.4"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.7"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "8.32",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.36"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.41"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.07"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.84"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.33"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "78",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "57"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "31"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "5.67",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.61"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.32"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.14"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.57"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.27"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "14",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "215",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "61"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "88"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "157"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "86"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "90",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "37"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "66"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "461",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "131"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "189"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "337"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "47"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "184"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.40",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.11"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.16"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.29"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.04"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.16"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.3",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.700",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.198"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.287"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.511"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.071"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.280"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.380",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.108"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.156"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.277"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.038"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.152"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "6.357",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.802"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.606"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.641"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.642"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.543"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.520",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.147"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.213"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.380"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.053"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.208"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "110",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "31"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "45"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "80"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "44"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "2.80",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.79"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.15"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.04"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.28"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "453",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "128"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "186"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "331"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "46"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "181"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "1511",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "428"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "620"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1103"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "153"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "604"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.62",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.18"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.25"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.45"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.06"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.25"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "6.5",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.8"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.7"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.7"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.7"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.162",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.329"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.476"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.848"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.117"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.465"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.554",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.441"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.637"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.134"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.157"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.622"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.831",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.086"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.571"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.797"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.387"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.532"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.030",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.009"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.012"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.022"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.003"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.012"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "18",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 73.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "mini pancake",
+                            "eqv": 10.1,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "pancake",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

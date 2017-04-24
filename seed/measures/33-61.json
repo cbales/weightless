@@ -1,0 +1,500 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "17285",
+            "name": "Lamb, Australian, imported, fresh, separable fat, cooked",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "24.00",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "20.40"
+                        },
+                        {
+                            "label": "piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "59.52"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "639",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "543"
+                        },
+                        {
+                            "label": "piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1585"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "9.42",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "8.01"
+                        },
+                        {
+                            "label": "piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23.36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "66.40",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "56.44"
+                        },
+                        {
+                            "label": "piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "164.67"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "27",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "23"
+                        },
+                        {
+                            "label": "piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "67"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.11",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.94"
+                        },
+                        {
+                            "label": "piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.75"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "12",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "10"
+                        },
+                        {
+                            "label": "piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "114",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "97"
+                        },
+                        {
+                            "label": "piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "283"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "179",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "152"
+                        },
+                        {
+                            "label": "piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "444"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "51",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "43"
+                        },
+                        {
+                            "label": "piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "126"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.48",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "1.26"
+                        },
+                        {
+                            "label": "piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.67"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.063",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.054"
+                        },
+                        {
+                            "label": "piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.156"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.140",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.119"
+                        },
+                        {
+                            "label": "piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.347"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "2.890",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "2.457"
+                        },
+                        {
+                            "label": "piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.167"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.171",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.145"
+                        },
+                        {
+                            "label": "piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.424"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "1.84",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "1.56"
+                        },
+                        {
+                            "label": "piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.56"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "34.751",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "29.538"
+                        },
+                        {
+                            "label": "piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "86.182"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "26.377",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "22.420"
+                        },
+                        {
+                            "label": "piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "65.415"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.331",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "1.981"
+                        },
+                        {
+                            "label": "piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.781"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "83",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "71"
+                        },
+                        {
+                            "label": "piece, cooked, excluding refuse (yield from 1 lb raw meat with refuse)",
+                            "eqv": 248.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "206"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

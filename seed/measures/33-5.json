@@ -1,0 +1,225 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "17353",
+            "name": "Lamb, Australian, ground,  85% lean / 15% fat, raw",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "61.46",
+                    "measures": [
+                        {
+                            "label": "serving (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "69.45"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "255",
+                    "measures": [
+                        {
+                            "label": "serving (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "288"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "17.14",
+                    "measures": [
+                        {
+                            "label": "serving (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19.37"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "20.71",
+                    "measures": [
+                        {
+                            "label": "serving (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23.40"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "serving (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "9",
+                    "measures": [
+                        {
+                            "label": "serving (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.41",
+                    "measures": [
+                        {
+                            "label": "serving (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.59"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "77",
+                    "measures": [
+                        {
+                            "label": "serving (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "87"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "9.926",
+                    "measures": [
+                        {
+                            "label": "serving (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.216"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "7.948",
+                    "measures": [
+                        {
+                            "label": "serving (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.981"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.119",
+                    "measures": [
+                        {
+                            "label": "serving (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.264"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.625",
+                    "measures": [
+                        {
+                            "label": "serving (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.836"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "73",
+                    "measures": [
+                        {
+                            "label": "serving (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "82"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "18610",
+            "name": "CONTINENTAL MILLS, KRUSTEAZ Almond Poppyseed Muffin Mix, Artificially Flavored, dry",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.70",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.28"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "418",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "167"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.60",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.24"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "10.30",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "75.60",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30.24"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.7",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "40.00",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "82",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "33"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.47",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.99"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "590",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "236"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.100",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.840"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.700",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.080"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

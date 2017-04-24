@@ -1,0 +1,321 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "19897",
+            "name": "Candies, MARS SNACKFOOD US, COCOAVIA Chocolate Covered Almonds",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.50",
+                    "measures": [
+                        {
+                            "label": "serving 1oz pack",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.42"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "573",
+                    "measures": [
+                        {
+                            "label": "serving 1oz pack",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "160"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "9.51",
+                    "measures": [
+                        {
+                            "label": "serving 1oz pack",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.66"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "37.07",
+                    "measures": [
+                        {
+                            "label": "serving 1oz pack",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.38"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "50.22",
+                    "measures": [
+                        {
+                            "label": "serving 1oz pack",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.06"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "10.4",
+                    "measures": [
+                        {
+                            "label": "serving 1oz pack",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.9"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "26.92",
+                    "measures": [
+                        {
+                            "label": "serving 1oz pack",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.54"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "840",
+                    "measures": [
+                        {
+                            "label": "serving 1oz pack",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "235"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "3.56",
+                    "measures": [
+                        {
+                            "label": "serving 1oz pack",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "9",
+                    "measures": [
+                        {
+                            "label": "serving 1oz pack",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "27.3",
+                    "measures": [
+                        {
+                            "label": "serving 1oz pack",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.714",
+                    "measures": [
+                        {
+                            "label": "serving 1oz pack",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.200"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "2.14",
+                    "measures": [
+                        {
+                            "label": "serving 1oz pack",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.60"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving 1oz pack",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "20",
+                    "measures": [
+                        {
+                            "label": "serving 1oz pack",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "4.82",
+                    "measures": [
+                        {
+                            "label": "serving 1oz pack",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.35"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "11.745",
+                    "measures": [
+                        {
+                            "label": "serving 1oz pack",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.289"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "serving 1oz pack",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving 1oz pack",
+                            "eqv": 28.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

@@ -1,0 +1,353 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "27034",
+            "name": "CAMPBELL'S, 98% Fat Free Cream of Mushroom Soup, condensed",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "87.41",
+                    "measures": [
+                        {
+                            "label": "cup condensed",
+                            "eqv": 124.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "108.39"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "53",
+                    "measures": [
+                        {
+                            "label": "cup condensed",
+                            "eqv": 124.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "66"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.10",
+                    "measures": [
+                        {
+                            "label": "cup condensed",
+                            "eqv": 124.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "1.36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.98",
+                    "measures": [
+                        {
+                            "label": "cup condensed",
+                            "eqv": 124.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "2.46"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.63",
+                    "measures": [
+                        {
+                            "label": "cup condensed",
+                            "eqv": 124.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "9.46"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.2",
+                    "measures": [
+                        {
+                            "label": "cup condensed",
+                            "eqv": 124.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "1.5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.25",
+                    "measures": [
+                        {
+                            "label": "cup condensed",
+                            "eqv": 124.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.31"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "8",
+                    "measures": [
+                        {
+                            "label": "cup condensed",
+                            "eqv": 124.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "10"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.31",
+                    "measures": [
+                        {
+                            "label": "cup condensed",
+                            "eqv": 124.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.38"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "21",
+                    "measures": [
+                        {
+                            "label": "cup condensed",
+                            "eqv": 124.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "26"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "27",
+                    "measures": [
+                        {
+                            "label": "cup condensed",
+                            "eqv": 124.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "33"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "435",
+                    "measures": [
+                        {
+                            "label": "cup condensed",
+                            "eqv": 124.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "539"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "392",
+                    "measures": [
+                        {
+                            "label": "cup condensed",
+                            "eqv": 124.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "486"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.18",
+                    "measures": [
+                        {
+                            "label": "cup condensed",
+                            "eqv": 124.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.22"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.1",
+                    "measures": [
+                        {
+                            "label": "cup condensed",
+                            "eqv": 124.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup condensed",
+                            "eqv": 124.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.340",
+                    "measures": [
+                        {
+                            "label": "cup condensed",
+                            "eqv": 124.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.422"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.410",
+                    "measures": [
+                        {
+                            "label": "cup condensed",
+                            "eqv": 124.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.508"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.120",
+                    "measures": [
+                        {
+                            "label": "cup condensed",
+                            "eqv": 124.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "1.389"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.010",
+                    "measures": [
+                        {
+                            "label": "cup condensed",
+                            "eqv": 124.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.012"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup condensed",
+                            "eqv": 124.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

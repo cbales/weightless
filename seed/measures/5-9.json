@@ -1,0 +1,454 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "23312",
+            "name": "Beef, Australian, imported, Wagyu, loin, top loin steak/roast, boneless, separable lean only, Aust. marble score 9, raw",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "53.09",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "60.52"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 359.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "190.59"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "331",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "377"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 359.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1188"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "16.92",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "19.29"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 359.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "60.74"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "29.15",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "33.23"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 359.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "104.65"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.13",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "0.15"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 359.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.47"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 359.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 359.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "4",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 359.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.71",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "1.95"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 359.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.14"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "68",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "78"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 359.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "244"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 359.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 359.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 359.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "10.309",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "11.752"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 359.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "37.009"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "15.368",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "17.520"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 359.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "55.171"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.079",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "1.230"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 359.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.874"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.891",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "1.016"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 359.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.199"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "61",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "70"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 359.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "219"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 114.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "roast",
+                            "eqv": 359.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

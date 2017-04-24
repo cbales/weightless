@@ -1,0 +1,241 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "19874",
+            "name": "Frozen novelties, KLONDIKE, SLIM-A-BEAR Fudge Bar, 98% fat free, no sugar added",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "63.51",
+                    "measures": [
+                        {
+                            "label": "serving 3.5 fl oz bar",
+                            "eqv": 74.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "47.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "124",
+                    "measures": [
+                        {
+                            "label": "serving 3.5 fl oz bar",
+                            "eqv": 74.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "92"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.31",
+                    "measures": [
+                        {
+                            "label": "serving 3.5 fl oz bar",
+                            "eqv": 74.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.19"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.88",
+                    "measures": [
+                        {
+                            "label": "serving 3.5 fl oz bar",
+                            "eqv": 74.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.39"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "30.07",
+                    "measures": [
+                        {
+                            "label": "serving 3.5 fl oz bar",
+                            "eqv": 74.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22.25"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "6.0",
+                    "measures": [
+                        {
+                            "label": "serving 3.5 fl oz bar",
+                            "eqv": 74.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.10",
+                    "measures": [
+                        {
+                            "label": "serving 3.5 fl oz bar",
+                            "eqv": 74.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.25"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "138",
+                    "measures": [
+                        {
+                            "label": "serving 3.5 fl oz bar",
+                            "eqv": 74.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "102"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.71",
+                    "measures": [
+                        {
+                            "label": "serving 3.5 fl oz bar",
+                            "eqv": 74.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.53"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "120",
+                    "measures": [
+                        {
+                            "label": "serving 3.5 fl oz bar",
+                            "eqv": 74.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "89"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.9",
+                    "measures": [
+                        {
+                            "label": "serving 3.5 fl oz bar",
+                            "eqv": 74.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "49",
+                    "measures": [
+                        {
+                            "label": "serving 3.5 fl oz bar",
+                            "eqv": 74.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.000",
+                    "measures": [
+                        {
+                            "label": "serving 3.5 fl oz bar",
+                            "eqv": 74.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.740"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "7",
+                    "measures": [
+                        {
+                            "label": "serving 3.5 fl oz bar",
+                            "eqv": 74.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

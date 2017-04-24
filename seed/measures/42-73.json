@@ -1,0 +1,661 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "21273",
+            "name": "PIZZA HUT 12\" Cheese Pizza, THIN 'N CRISPY Crust",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "38.77",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26.75"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "222.15"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "303",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "209"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1736"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "15.29",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.55"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "87.61"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "14.10",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.73"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "80.79"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "28.64",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19.76"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "164.11"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.6",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.1"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.67",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.84"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.30"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "278",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "192"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1593"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.71",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.18"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.80"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "24",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "138"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "317",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "219"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1816"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "191",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "132"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1094"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "784",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "541"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4492"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.87",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.29"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.72"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.218",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.150"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.249"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.276",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.190"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.581"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "2.895",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.998"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16.588"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.109",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.075"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.625"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.89",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.61"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.10"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "107",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "74"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "613"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "374",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "258"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2143"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.84",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.58"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.81"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "8.3",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.7"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "47.6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "6.896",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.758"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "39.514"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.807",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.627"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21.814"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.698",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.172"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.730"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "34",
+                    "measures": [
+                        {
+                            "label": "slice",
+                            "eqv": 69.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23"
+                        },
+                        {
+                            "label": "pizza",
+                            "eqv": 573.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "195"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

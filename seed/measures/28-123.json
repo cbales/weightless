@@ -1,0 +1,193 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "18603",
+            "name": "GEORGE WESTON BAKERIES, Brownberry Sage and Onion Stuffing Mix, dry",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.00",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 67.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.68"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "390",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 67.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "261"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "13.30",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 67.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.91"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.10",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 67.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.42"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "72.70",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 67.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "48.71"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.4",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 67.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "3.81",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 67.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.55"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1680",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 67.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1126"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.900",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 67.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.603"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.040",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 67.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.367"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.761",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 67.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.510"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

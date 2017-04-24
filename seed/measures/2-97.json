@@ -1,0 +1,977 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "43537",
+            "name": "Babyfood, dessert, blueberry yogurt, strained",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "81.40",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.21"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "91.98"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "91.98"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "77",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "87"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "87"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.50",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.56"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.56"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.70",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.10"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.79"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.79"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "17.05",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.56"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19.27"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19.27"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.4",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.5"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "13.62",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.04"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.39"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.39"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "25",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.20",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.03"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.23"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.23"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "13",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "109",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "123"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "123"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "62",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "70"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "70"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "14",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.14",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.02"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.16"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.16"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "12.4",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.9"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.0"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.040",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.006"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.045"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.045"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.140",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.021"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.158"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.158"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.400",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.060"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.452"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.452"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "8",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.43",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.06"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.49"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.49"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "3",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "41",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "46"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "46"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.40",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.06"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.45"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.45"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "13.3",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.0"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.0"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.452",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.068"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.511"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.511"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.192",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.029"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.217"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.217"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.019",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.003"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.021"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.021"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "4",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 15.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "jar NFS",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "jar Heinz Strained-2 (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

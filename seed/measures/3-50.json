@@ -1,0 +1,707 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "42286",
+            "name": "Babyfood, green beans and turkey, strained",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "87.50",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.25"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "98.88"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "51",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "58"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.10",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.57"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.63"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.50",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.21"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.70"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.35",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.75"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.05"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.4",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.39",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.19"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.57"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "31",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.70",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.10"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.79"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "22",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "56",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "63"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "188",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "212"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "11",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.60",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.08"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.68"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "2.2",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.3"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.030",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.004"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.034"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.110",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.015"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.124"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.140",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.160"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.288"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.080",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.011"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.090"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "29",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "33"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.25",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.04"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.28"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "31",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "629",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "88"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "711"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.45",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.06"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.51"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "14.8",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.1"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16.7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.500",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.070"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.565"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.270",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.038"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.305"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.420",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.059"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.475"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "11",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "jar Gerber Second Food (4 oz)",
+                            "eqv": 113.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

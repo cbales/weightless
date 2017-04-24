@@ -1,0 +1,241 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "06620",
+            "name": "SMART SOUP, French Lentil",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "85.50",
+                    "measures": [
+                        {
+                            "label": "oz 1 pouch",
+                            "eqv": 283.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "241.97"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "53",
+                    "measures": [
+                        {
+                            "label": "oz 1 pouch",
+                            "eqv": 283.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "150"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.90",
+                    "measures": [
+                        {
+                            "label": "oz 1 pouch",
+                            "eqv": 283.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "8.21"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.06",
+                    "measures": [
+                        {
+                            "label": "oz 1 pouch",
+                            "eqv": 283.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "3.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "9.50",
+                    "measures": [
+                        {
+                            "label": "oz 1 pouch",
+                            "eqv": 283.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "26.89"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.9",
+                    "measures": [
+                        {
+                            "label": "oz 1 pouch",
+                            "eqv": 283.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "8.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.60",
+                    "measures": [
+                        {
+                            "label": "oz 1 pouch",
+                            "eqv": 283.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "7.36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "23",
+                    "measures": [
+                        {
+                            "label": "oz 1 pouch",
+                            "eqv": 283.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "65"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.00",
+                    "measures": [
+                        {
+                            "label": "oz 1 pouch",
+                            "eqv": 283.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "2.83"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "131",
+                    "measures": [
+                        {
+                            "label": "oz 1 pouch",
+                            "eqv": 283.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "371"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz 1 pouch",
+                            "eqv": 283.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "oz 1 pouch",
+                            "eqv": 283.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.177",
+                    "measures": [
+                        {
+                            "label": "oz 1 pouch",
+                            "eqv": 283.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "0.501"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz 1 pouch",
+                            "eqv": 283.0,
+                            "eunit": "g",
+                            "qty": 10.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

@@ -1,0 +1,257 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "06241",
+            "name": "CAMPBELL'S CHUNKY Microwavable Bowls, Beef with Country Vegetables Soup, ready-to-serve",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "85.30",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "208.99"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "61",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "149"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.08",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.22",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.99"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "8.57",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.0",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.9"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.22",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.99"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "8",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.29",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.71"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "367",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "899"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.5",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "2041",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.612",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.499"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "8",
+                    "measures": [
+                        {
+                            "label": "serving 1 cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

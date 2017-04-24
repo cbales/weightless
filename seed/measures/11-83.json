@@ -1,0 +1,1931 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "14146",
+            "name": "Beverages, carbonated, low calorie, cola or pepper-type, with aspartame, without caffeine",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "99.74",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "29.52"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "472.77"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "354.08"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "472.77"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "649.31"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "944.54"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1298.61"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "1",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.12",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.04"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.57"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.43"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.57"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.78"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.14"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.56"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.12",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.04"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.57"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.43"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.57"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.78"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.14"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.56"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "3",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "39"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.02",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.01"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.09"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.09"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.13"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.19"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.26"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "10",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "47"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "36"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "47"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "65"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "95"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "130"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "7",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "33"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "33"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "46"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "66"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "91"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "4",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "38"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "52"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.01",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.05"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.04"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.05"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.09"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.13"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.005",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.001"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.024"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.018"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.024"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.033"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.047"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.065"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.023",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.007"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.109"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.082"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.109"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.150"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.218"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.299"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 29.6,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "can or bottle (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "can (12 fl oz)",
+                            "eqv": 355.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, small (16 fl oz)",
+                            "eqv": 474.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, medium (22 fl oz)",
+                            "eqv": 651.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, large (32 fl oz)",
+                            "eqv": 947.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "drink, extra large (44 fl oz)",
+                            "eqv": 1302.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

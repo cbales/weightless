@@ -1,0 +1,289 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "07934",
+            "name": "Kielbasa, Polish, turkey and beef, smoked",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "62.00",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "34.72"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "226",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "127"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "13.10",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.34"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "17.60",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.86"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.90",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.18"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.24",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.69"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1200",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "672"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "14.8",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "6.230",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.489"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "8.270",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.631"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.330",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.305"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "70",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "39"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

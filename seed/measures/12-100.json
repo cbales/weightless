@@ -1,0 +1,1016 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "14428",
+            "name": "Beverages, shake, fast food, strawberry",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "74.10",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17.41"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "208.96"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "278.62"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "366.05"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "113",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "27"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "319"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "425"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "558"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.40",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.80"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.59"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.78"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16.80"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.80",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.66"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.90"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.53"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.83"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "18.90",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.44"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "53.30"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "71.06"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "93.37"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.4",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.1"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.5"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "113",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "27"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "319"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "425"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "558"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.11",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.03"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.31"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.41"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.54"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "13",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "37"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "49"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "64"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "100",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "282"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "376"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "494"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "182",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "43"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "513"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "684"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "899"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "83",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "234"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "312"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "410"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.36",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.08"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.02"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.35"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.78"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.8",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.3"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.0"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.045",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.011"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.127"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.169"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.222"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.195",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.046"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.550"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.733"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.963"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.175",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.041"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.493"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.658"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.864"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.044",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.010"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.124"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.165"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.217"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "3",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.31",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.87"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.17"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.53"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "26",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "73"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "98"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "128"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "120",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "338"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "451"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "593"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.734",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.407"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.890"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.520"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.566"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "11",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 23.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "serving small 12 fl oz",
+                            "eqv": 282.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "31"
+                        },
+                        {
+                            "label": "serving medium 16 fl oz",
+                            "eqv": 376.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "41"
+                        },
+                        {
+                            "label": "serving large 21 fl oz",
+                            "eqv": 494.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "54"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

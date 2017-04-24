@@ -1,0 +1,257 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "19146",
+            "name": "Baking chocolate, MARS SNACKFOOD US, M&M's Milk Chocolate Mini Baking Bits",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.50",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.21"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "502",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "70"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.78",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.67"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "23.36",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.27"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "68.40",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.58"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.7",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "62.54",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.76"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "116",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.23",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.17"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "68",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.6",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "224",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "31"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "14.466",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.025"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.184",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.026"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "15",
+                    "measures": [
+                        {
+                            "label": "serving 0.5 oz, about 1 tbsp",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

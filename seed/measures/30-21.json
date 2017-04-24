@@ -1,0 +1,592 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "19271",
+            "name": "Ice creams, strawberry",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "60.00",
+                    "measures": [
+                        {
+                            "label": "individual (3.5 fl oz)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "34.80"
+                        },
+                        {
+                            "label": "cup (4 fl oz)",
+                            "eqv": 66.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "39.60"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "192",
+                    "measures": [
+                        {
+                            "label": "individual (3.5 fl oz)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "111"
+                        },
+                        {
+                            "label": "cup (4 fl oz)",
+                            "eqv": 66.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "127"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.20",
+                    "measures": [
+                        {
+                            "label": "individual (3.5 fl oz)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.86"
+                        },
+                        {
+                            "label": "cup (4 fl oz)",
+                            "eqv": 66.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "2.11"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "8.40",
+                    "measures": [
+                        {
+                            "label": "individual (3.5 fl oz)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.87"
+                        },
+                        {
+                            "label": "cup (4 fl oz)",
+                            "eqv": 66.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "5.54"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "27.60",
+                    "measures": [
+                        {
+                            "label": "individual (3.5 fl oz)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16.01"
+                        },
+                        {
+                            "label": "cup (4 fl oz)",
+                            "eqv": 66.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "18.22"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.9",
+                    "measures": [
+                        {
+                            "label": "individual (3.5 fl oz)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.5"
+                        },
+                        {
+                            "label": "cup (4 fl oz)",
+                            "eqv": 66.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "120",
+                    "measures": [
+                        {
+                            "label": "individual (3.5 fl oz)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "70"
+                        },
+                        {
+                            "label": "cup (4 fl oz)",
+                            "eqv": 66.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "79"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.21",
+                    "measures": [
+                        {
+                            "label": "individual (3.5 fl oz)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.12"
+                        },
+                        {
+                            "label": "cup (4 fl oz)",
+                            "eqv": 66.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.14"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "14",
+                    "measures": [
+                        {
+                            "label": "individual (3.5 fl oz)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "cup (4 fl oz)",
+                            "eqv": 66.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "9"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "100",
+                    "measures": [
+                        {
+                            "label": "individual (3.5 fl oz)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "58"
+                        },
+                        {
+                            "label": "cup (4 fl oz)",
+                            "eqv": 66.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "66"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "188",
+                    "measures": [
+                        {
+                            "label": "individual (3.5 fl oz)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "109"
+                        },
+                        {
+                            "label": "cup (4 fl oz)",
+                            "eqv": 66.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "124"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "60",
+                    "measures": [
+                        {
+                            "label": "individual (3.5 fl oz)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35"
+                        },
+                        {
+                            "label": "cup (4 fl oz)",
+                            "eqv": 66.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "40"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.34",
+                    "measures": [
+                        {
+                            "label": "individual (3.5 fl oz)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.20"
+                        },
+                        {
+                            "label": "cup (4 fl oz)",
+                            "eqv": 66.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.22"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "7.7",
+                    "measures": [
+                        {
+                            "label": "individual (3.5 fl oz)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.5"
+                        },
+                        {
+                            "label": "cup (4 fl oz)",
+                            "eqv": 66.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "5.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.045",
+                    "measures": [
+                        {
+                            "label": "individual (3.5 fl oz)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.026"
+                        },
+                        {
+                            "label": "cup (4 fl oz)",
+                            "eqv": 66.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.030"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.255",
+                    "measures": [
+                        {
+                            "label": "individual (3.5 fl oz)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.148"
+                        },
+                        {
+                            "label": "cup (4 fl oz)",
+                            "eqv": 66.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.168"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.170",
+                    "measures": [
+                        {
+                            "label": "individual (3.5 fl oz)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.099"
+                        },
+                        {
+                            "label": "cup (4 fl oz)",
+                            "eqv": 66.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.112"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.050",
+                    "measures": [
+                        {
+                            "label": "individual (3.5 fl oz)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.029"
+                        },
+                        {
+                            "label": "cup (4 fl oz)",
+                            "eqv": 66.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.033"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "12",
+                    "measures": [
+                        {
+                            "label": "individual (3.5 fl oz)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        },
+                        {
+                            "label": "cup (4 fl oz)",
+                            "eqv": 66.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "8"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.30",
+                    "measures": [
+                        {
+                            "label": "individual (3.5 fl oz)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.17"
+                        },
+                        {
+                            "label": "cup (4 fl oz)",
+                            "eqv": 66.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0.20"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "96",
+                    "measures": [
+                        {
+                            "label": "individual (3.5 fl oz)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "56"
+                        },
+                        {
+                            "label": "cup (4 fl oz)",
+                            "eqv": 66.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "63"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "320",
+                    "measures": [
+                        {
+                            "label": "individual (3.5 fl oz)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "186"
+                        },
+                        {
+                            "label": "cup (4 fl oz)",
+                            "eqv": 66.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "211"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "5.190",
+                    "measures": [
+                        {
+                            "label": "individual (3.5 fl oz)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.010"
+                        },
+                        {
+                            "label": "cup (4 fl oz)",
+                            "eqv": 66.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "3.425"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "29",
+                    "measures": [
+                        {
+                            "label": "individual (3.5 fl oz)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17"
+                        },
+                        {
+                            "label": "cup (4 fl oz)",
+                            "eqv": 66.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "19"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "individual (3.5 fl oz)",
+                            "eqv": 58.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup (4 fl oz)",
+                            "eqv": 66.0,
+                            "eunit": "g",
+                            "qty": 0.5,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

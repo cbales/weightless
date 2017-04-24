@@ -1,0 +1,691 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "09144",
+            "name": "Jackfruit, raw",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "73.46",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "121.21"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "110.92"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "95",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "157"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "143"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.72",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.84"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.60"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.64",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.06"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.97"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "23.25",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "38.36"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35.11"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.5",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.5"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "19.08",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "31.48"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28.81"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "24",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "40"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.23",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.38"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.35"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "29",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "48"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "44"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "21",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "448",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "739"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "676"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.13",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.21"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.20"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "13.7",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22.6"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20.7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.105",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.173"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.159"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.055",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.091"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.083"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.920",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.518"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.389"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.329",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.543"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.497"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "24",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "40"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "5",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "110",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "182"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "166"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.34",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.56"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.51"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.195",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.322"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.294"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.155",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.256"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.234"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.094",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.155"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.142"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup, sliced",
+                            "eqv": 165.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup 1\" pieces",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            {
+                "id": "b",
+                "desc": "Folate value based on the analysis of 5-methyltetrahydrofolate"
+            },
+            {
+                "id": "a",
+                "desc": "Values based on analysis of cultivars grown in Florida."
+            }
+        ]
+    }
+}

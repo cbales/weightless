@@ -1,0 +1,1649 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "14347",
+            "name": "Shake, fast food, vanilla",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "69.65",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.49"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "115.62"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "144.87"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "174.12"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "231.93"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "319.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "148",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "31"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "246"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "308"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "370"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "493"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "678"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.37",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.70"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.59"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.01"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.43"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.22"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.43"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "6.52",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.36"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.82"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.56"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16.30"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21.71"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "29.86"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "19.59",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.07"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32.52"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "40.75"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "48.98"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "65.23"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "89.72"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.9",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.5"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.9"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.2"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.0"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "13.63",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.84"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22.63"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28.35"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "34.08"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "45.39"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "62.43"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "115",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "191"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "239"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "288"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "383"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "527"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.46",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.10"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.76"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.96"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.15"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.53"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.11"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "13",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "27"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "43"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "60"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "98",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "163"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "204"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "245"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "326"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "449"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "166",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "276"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "345"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "415"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "553"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "760"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "81",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "134"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "168"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "202"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "270"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "371"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.57",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.12"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.95"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.19"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.43"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.90"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.61"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.026",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.005"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.043"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.054"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.065"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.087"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.119"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.660",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.137"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.096"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.373"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.650"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.198"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.023"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.213",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.044"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.354"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.443"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.532"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.709"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.976"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.060",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.012"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.100"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.125"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.150"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.200"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.275"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.22",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.05"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.37"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.46"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.55"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.73"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.01"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "91",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "151"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "189"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "228"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "303"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "417"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "304",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "63"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "505"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "632"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "760"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1012"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1392"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.25",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.05"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.41"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.52"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.62"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.83"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.15"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.4",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.7"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.8"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.0"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.3"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.8"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.962",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.824"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.577"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.241"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.905"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.193"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18.146"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.785",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.371"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.963"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.713"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.463"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.944"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.175"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.316",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.066"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.525"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.657"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.790"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.052"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.447"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "23",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "38"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "48"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "58"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "77"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "105"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 20.8,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup (8 fl oz)",
+                            "eqv": 166.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "milkshake (10 fl oz)",
+                            "eqv": 208.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "small McDonald's shake (12 fl oz)",
+                            "eqv": 250.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "medium McDonald's shake (16 fl oz)",
+                            "eqv": 333.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "large McDonald's shake (22 fl oz)",
+                            "eqv": 458.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}
