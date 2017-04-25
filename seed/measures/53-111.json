@@ -1,0 +1,1703 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "18360",
+            "name": "Taco shells, baked",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "6.40",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.83"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.81"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.85"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.34"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.32"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.81"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "476",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "61"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "60"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "63"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "100"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "135"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "6.41",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.83"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.81"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.85"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.35"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.32"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.82"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "21.79",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.81"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.77"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.90"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.58"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.09"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.18"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "63.49",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.19"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.06"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.44"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.33"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.17"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "6.7",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.9"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.9"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.9"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.4"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.3"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.9"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.50",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.19"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.19"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.20"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.32"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.43"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "100",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.64",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.21"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.21"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.22"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.34"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.08"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.46"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "83",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "233",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "31"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "49"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "66"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "231",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "29"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "31"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "49"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "65"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "324",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "42"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "41"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "43"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "68"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "92"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.61",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.21"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.20"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.21"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.34"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.08"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.46"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.216",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.028"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.027"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.029"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.045"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.011"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.061"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.080",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.010"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.010"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.011"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.017"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.004"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.023"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.867",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.241"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.237"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.248"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.392"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.093"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.529"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.203",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.026"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.026"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.027"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.043"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.010"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.058"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "85",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "1",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "17",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.69",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.09"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.09"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.09"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.14"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.03"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.20"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "8.6",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.1"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.1"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.1"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.8"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.4"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "7.105",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.917"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.902"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.945"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.492"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.355"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.014"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "6.935",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.895"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.881"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.922"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.456"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.347"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.966"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "5.495",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.709"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.698"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.731"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.154"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.275"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.558"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.172",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.022"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.022"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.023"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.036"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.009"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.049"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "shell",
+                            "eqv": 12.9,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 12.7,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "medium (approx 5\" dia)",
+                            "eqv": 13.3,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "large (6-1/2\" dia)",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "miniature (3\" dia)",
+                            "eqv": 5.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            {
+                "id": "a",
+                "desc": "Item includes both regular corn and whole grain corn tortilla shells."
+            }
+        ]
+    }
+}

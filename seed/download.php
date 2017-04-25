@@ -7,7 +7,7 @@ $apiKey = "Rf62TqkVxFqtuOAdPUN7ijLK5KRiTntpnrXHv3jg";
 $totalFiles = ceil(8489/150);
 
 //Update start # to start on a different page of results
-$start = 36*150;
+$start = 49*150;
 
 for ($i = $start; $i < 8489; $i += 150) {
 	$pageNo = $i/150+1;

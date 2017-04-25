@@ -1,0 +1,257 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "16211",
+            "name": "Vitasoy USA, Organic Nasoya Super Firm Cubed Tofu",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "77.00",
+                    "measures": [
+                        {
+                            "label": "package",
+                            "eqv": 79.0,
+                            "eunit": "g",
+                            "qty": 0.2,
+                            "value": "60.83"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "118",
+                    "measures": [
+                        {
+                            "label": "package",
+                            "eqv": 79.0,
+                            "eunit": "g",
+                            "qty": 0.2,
+                            "value": "93"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "12.40",
+                    "measures": [
+                        {
+                            "label": "package",
+                            "eqv": 79.0,
+                            "eunit": "g",
+                            "qty": 0.2,
+                            "value": "9.80"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "6.30",
+                    "measures": [
+                        {
+                            "label": "package",
+                            "eqv": 79.0,
+                            "eunit": "g",
+                            "qty": 0.2,
+                            "value": "4.98"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.80",
+                    "measures": [
+                        {
+                            "label": "package",
+                            "eqv": 79.0,
+                            "eunit": "g",
+                            "qty": 0.2,
+                            "value": "2.21"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.0",
+                    "measures": [
+                        {
+                            "label": "package",
+                            "eqv": 79.0,
+                            "eunit": "g",
+                            "qty": 0.2,
+                            "value": "1.6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.60",
+                    "measures": [
+                        {
+                            "label": "package",
+                            "eqv": 79.0,
+                            "eunit": "g",
+                            "qty": 0.2,
+                            "value": "0.47"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "188",
+                    "measures": [
+                        {
+                            "label": "package",
+                            "eqv": 79.0,
+                            "eunit": "g",
+                            "qty": 0.2,
+                            "value": "149"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.00",
+                    "measures": [
+                        {
+                            "label": "package",
+                            "eqv": 79.0,
+                            "eunit": "g",
+                            "qty": 0.2,
+                            "value": "1.58"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "6",
+                    "measures": [
+                        {
+                            "label": "package",
+                            "eqv": 79.0,
+                            "eunit": "g",
+                            "qty": 0.2,
+                            "value": "5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.300",
+                    "measures": [
+                        {
+                            "label": "package",
+                            "eqv": 79.0,
+                            "eunit": "g",
+                            "qty": 0.2,
+                            "value": "1.027"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.300",
+                    "measures": [
+                        {
+                            "label": "package",
+                            "eqv": 79.0,
+                            "eunit": "g",
+                            "qty": 0.2,
+                            "value": "1.027"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.800",
+                    "measures": [
+                        {
+                            "label": "package",
+                            "eqv": 79.0,
+                            "eunit": "g",
+                            "qty": 0.2,
+                            "value": "3.002"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "package",
+                            "eqv": 79.0,
+                            "eunit": "g",
+                            "qty": 0.2,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "package",
+                            "eqv": 79.0,
+                            "eunit": "g",
+                            "qty": 0.2,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

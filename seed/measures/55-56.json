@@ -1,0 +1,684 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "11566",
+            "name": "Turnips, frozen, unprepared",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "95.67",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "89.93"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "271.70"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "16",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "15"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "45"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.04",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "0.98"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.95"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.16",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "0.15"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.45"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.94",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "2.76"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.35"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.8",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "1.7"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "23",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "22"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "65"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.70",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "0.66"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.99"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "10",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "9"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "20",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "19"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "57"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "137",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "129"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "389"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "25",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "24"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "71"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.14",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "0.13"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.40"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "4.4",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "4.1"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.030",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "0.028"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.085"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.020",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "0.019"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.057"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.400",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "0.376"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.136"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.048",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "0.045"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.136"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "8",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "8"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "1",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "1"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "26",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "24"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "74"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "0"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.017",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "0.016"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.048"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.010",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "0.009"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.028"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.085",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "0.080"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.241"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 94.0,
+                            "eunit": "g",
+                            "qty": 0.333,
+                            "value": "0"
+                        },
+                        {
+                            "label": "package, mashed (10 oz)",
+                            "eqv": 284.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

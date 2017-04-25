@@ -1,0 +1,161 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "19273",
+            "name": "Snacks, SUNKIST, SUNKIST Fruit Roll, strawberry, with vitamins A, C, and E",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "14.60",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.07"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "342",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "72"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.60",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.13"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.00",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.21"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "82.70",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17.37"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.7",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "111",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "81.6",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "835",
+                    "measures": [
+                        {
+                            "label": "roll",
+                            "eqv": 21.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "175"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

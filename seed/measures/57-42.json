@@ -1,0 +1,273 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "07930",
+            "name": "Yachtwurst, with pistachio nuts, cooked",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "58.20",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32.59"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "268",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "150"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "14.80",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.29"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "22.60",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.66"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.40",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.78"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "19",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.00",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.56"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "936",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "524"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "7.900",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.424"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "64",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving 2 oz",
+                            "eqv": 56.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

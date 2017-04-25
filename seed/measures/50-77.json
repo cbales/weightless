@@ -1,0 +1,408 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "27045",
+            "name": "Soup, beef and vegetables, reduced sodium, canned, ready-to-serve",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "89.75",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "219.89"
+                        },
+                        {
+                            "label": "can",
+                            "eqv": 525.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "471.19"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "42",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "103"
+                        },
+                        {
+                            "label": "can",
+                            "eqv": 525.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "220"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.26",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.99"
+                        },
+                        {
+                            "label": "can",
+                            "eqv": 525.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17.11"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.95",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.33"
+                        },
+                        {
+                            "label": "can",
+                            "eqv": 525.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.99"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.99",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.23"
+                        },
+                        {
+                            "label": "can",
+                            "eqv": 525.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26.20"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.8",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.0"
+                        },
+                        {
+                            "label": "can",
+                            "eqv": 525.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.22",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.99"
+                        },
+                        {
+                            "label": "can",
+                            "eqv": 525.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.41"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "17",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "42"
+                        },
+                        {
+                            "label": "can",
+                            "eqv": 525.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "89"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.45",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.10"
+                        },
+                        {
+                            "label": "can",
+                            "eqv": 525.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "9",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        },
+                        {
+                            "label": "can",
+                            "eqv": 525.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "47"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "43",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "105"
+                        },
+                        {
+                            "label": "can",
+                            "eqv": 525.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "226"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "277",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "679"
+                        },
+                        {
+                            "label": "can",
+                            "eqv": 525.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1454"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "175",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "429"
+                        },
+                        {
+                            "label": "can",
+                            "eqv": 525.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "919"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.41",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.00"
+                        },
+                        {
+                            "label": "can",
+                            "eqv": 525.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.15"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.015",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.037"
+                        },
+                        {
+                            "label": "can",
+                            "eqv": 525.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.079"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.015",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.037"
+                        },
+                        {
+                            "label": "can",
+                            "eqv": 525.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.079"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.907",
+                    "measures": [
+                        {
+                            "label": "cup",
+                            "eqv": 245.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.222"
+                        },
+                        {
+                            "label": "can",
+                            "eqv": 525.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.762"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

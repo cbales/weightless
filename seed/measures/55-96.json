@@ -1,0 +1,209 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "28376",
+            "name": "VAN'S, The Perfect 10, Crispy Six Whole Grain + Four Seed Baked Crackers, Gluten Free",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.09",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 8.4,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.26"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "471",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 8.4,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "40"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.63",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 8.4,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.64"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "18.93",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 8.4,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "1.59"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "67.57",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 8.4,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "5.68"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "57",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 8.4,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.94",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 8.4,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.16"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "94",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 8.4,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "8"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "269",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 8.4,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "23"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "255",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 8.4,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "21"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "730",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 8.4,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "61"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.72",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 8.4,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.14"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}
