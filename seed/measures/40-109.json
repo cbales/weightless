@@ -1,0 +1,2162 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "20125",
+            "name": "Pasta, whole-wheat, cooked",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "61.80",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "72.31"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "93.32"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "72.31"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "59.95"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "64.89"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "71.69"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "66.13"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "66.13"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "149",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "174"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "225"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "174"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "145"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "156"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "173"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "159"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "159"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.99",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.01"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.04"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.01"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.81"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.29"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.95"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.41"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.41"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.71",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.00"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.58"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.00"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.66"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.80"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.98"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.83"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.83"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "30.07",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35.18"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "45.41"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35.18"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "29.17"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "31.57"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "34.88"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32.17"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32.17"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.9",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.6"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.9"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.6"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.8"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.1"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.5"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.2"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.75",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.88"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.13"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.88"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.73"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.79"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.87"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.80"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.80"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "13",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.72",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.01"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.60"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.01"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.67"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.81"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.00"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.84"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.84"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "54",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "63"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "82"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "63"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "52"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "57"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "63"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "58"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "58"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "127",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "149"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "192"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "149"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "123"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "133"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "147"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "136"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "136"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "96",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "112"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "145"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "112"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "93"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "101"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "111"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "103"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "103"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "4",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.34",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.57"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.02"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.57"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.30"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.41"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.55"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.43"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.43"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.156",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.183"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.236"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.183"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.151"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.164"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.181"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.167"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.167"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.099",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.116"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.149"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.116"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.096"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.104"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.115"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.106"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.106"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "3.126",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.657"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.720"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.657"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.032"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.282"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.626"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.345"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.345"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.093",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.109"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.140"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.109"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.090"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.098"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.108"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.100"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.100"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "21",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "4",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.23",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.27"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.35"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.27"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.22"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.24"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.27"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.25"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.25"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.6",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.7"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.9"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.7"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.6"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.6"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.7"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.6"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.243",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.284"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.367"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.284"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.236"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.255"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.282"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.260"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.260"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.176",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.206"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.266"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.206"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.171"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.185"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.204"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.188"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.188"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.574",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.672"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.867"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.672"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.557"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.603"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.666"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.614"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.614"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cup spaghetti not packed",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup spaghetti packed",
+                            "eqv": 151.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup elbows",
+                            "eqv": 117.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup penne",
+                            "eqv": 97.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup shells",
+                            "eqv": 105.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup lasagne",
+                            "eqv": 116.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup rotini",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cup farfalle",
+                            "eqv": 107.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

@@ -1,0 +1,545 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "18943",
+            "name": "Pie Crust, Cookie-type, Chocolate, Ready Crust",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.99",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.08"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "484",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "881"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "6.08",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.07"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "22.42",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "40.80"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "64.48",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "117.35"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.7",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.9"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "26.31",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "47.88"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "32",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "58"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "4.30",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.83"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "40",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "73"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "120",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "218"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "187",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "340"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "503",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "915"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.10",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.82"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.336",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.612"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.265",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.482"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "3.073",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.593"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.043",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.078"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "108",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "197"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.79",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.26"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "18.2",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "33.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "4.725",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.599"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "14.482",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26.357"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.035",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.704"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "8",
+                    "measures": [
+                        {
+                            "label": "crust",
+                            "eqv": 182.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

@@ -1,0 +1,776 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "22537",
+            "name": "HOT POCKETS Ham 'N Cheese Stuffed Sandwich, frozen",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "48.96",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "62.18"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "125.34"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "241",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "306"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "617"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "9.16",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.63"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23.45"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "9.14",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.61"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23.40"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "30.55",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "38.80"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "78.21"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.5",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.9"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.8"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.60",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.65"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19.46"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "152",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "193"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "389"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.00",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.54"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "18",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "46"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "168",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "213"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "430"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "188",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "239"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "481"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "504",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "640"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1290"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.95",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.21"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.43"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.1",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.417",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.530"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.068"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.273",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.347"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.699"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "3.425",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.350"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.768"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.095",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.121"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.243"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "84",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "107"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "215"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.35",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.44"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.90"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.29",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.37"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.74"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.2",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.3"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "10",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.8",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.0"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.545",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.502"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.075"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.547",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.235"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.520"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.936",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.459"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.956"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.180",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.229"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.461"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "23",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "29"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "59"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving (1 hot pocket)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "package yields",
+                            "eqv": 256.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

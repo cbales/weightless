@@ -1,0 +1,776 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "22962",
+            "name": "LEAN POCKETS, Ham N Cheddar",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "48.48",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "61.57"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "62.54"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "230",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "292"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "297"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "10.28",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.06"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.26"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "6.53",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.29"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.42"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "32.52",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "41.30"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "41.95"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.7",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.2"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.60",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.65"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.80"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "196",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "249"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "253"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.15",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.73"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.77"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "21",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "27"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "27"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "197",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "250"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "254"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "203",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "258"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "262"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "423",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "537"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "546"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.21",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.54"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.56"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.1",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.412",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.523"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.531"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.307",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.390"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.396"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "3.462",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.397"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.466"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.102",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.130"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.132"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "84",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "107"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "108"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.44",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.56"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.57"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.29",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.37"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.37"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.2",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.3"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "10",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "1.7",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.2"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.389",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.034"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.082"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.551",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.970"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.001"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.403",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.782"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.810"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.178",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.226"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.230"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "20",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "hot pocket (1 NLEA serving)",
+                            "eqv": 127.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "each (analytical measurement)",
+                            "eqv": 129.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

@@ -1,0 +1,753 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "18088",
+            "name": "Cake, angelfood, dry mix, prepared",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "32.90",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16.45"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "196.08"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "257",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "128"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1532"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "6.10",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.05"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "36.36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.30",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.15"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.79"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "58.70",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "29.35"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "349.85"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.2",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "30.51",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.26"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "181.84"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "84",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "42"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "501"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.23",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.12"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.37"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "8",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "48"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "232",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "116"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1383"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "135",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "68"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "805"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "511",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "256"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3046"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.13",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.77"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.092",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.046"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.548"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.202",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.101"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.204"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.171",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.086"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.019"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.006",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.003"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.036"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "29",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "173"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.03",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.01"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.18"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.01",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.01"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.06"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.1",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.043",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.021"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.256"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.026",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.013"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.155"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.124",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.062"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.739"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of 10\" dia)",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "tube cake (10\" dia, 4-3/8\" high)",
+                            "eqv": 596.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

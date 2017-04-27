@@ -1,0 +1,431 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "19065",
+            "name": "Candies, ALMOND JOY Candy Bar",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "8.20",
+                    "measures": [
+                        {
+                            "label": "package 1.76 oz",
+                            "eqv": 49.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.02"
+                        },
+                        {
+                            "label": "bar snack size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.56"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "479",
+                    "measures": [
+                        {
+                            "label": "package 1.76 oz",
+                            "eqv": 49.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "235"
+                        },
+                        {
+                            "label": "bar snack size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "91"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.13",
+                    "measures": [
+                        {
+                            "label": "package 1.76 oz",
+                            "eqv": 49.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.02"
+                        },
+                        {
+                            "label": "bar snack size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.78"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "26.93",
+                    "measures": [
+                        {
+                            "label": "package 1.76 oz",
+                            "eqv": 49.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.20"
+                        },
+                        {
+                            "label": "bar snack size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "59.51",
+                    "measures": [
+                        {
+                            "label": "package 1.76 oz",
+                            "eqv": 49.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "29.16"
+                        },
+                        {
+                            "label": "bar snack size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.31"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.0",
+                    "measures": [
+                        {
+                            "label": "package 1.76 oz",
+                            "eqv": 49.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.5"
+                        },
+                        {
+                            "label": "bar snack size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.9"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "48.34",
+                    "measures": [
+                        {
+                            "label": "package 1.76 oz",
+                            "eqv": 49.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23.69"
+                        },
+                        {
+                            "label": "bar snack size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.18"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "64",
+                    "measures": [
+                        {
+                            "label": "package 1.76 oz",
+                            "eqv": 49.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "31"
+                        },
+                        {
+                            "label": "bar snack size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.27",
+                    "measures": [
+                        {
+                            "label": "package 1.76 oz",
+                            "eqv": 49.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.62"
+                        },
+                        {
+                            "label": "bar snack size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.24"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "112",
+                    "measures": [
+                        {
+                            "label": "package 1.76 oz",
+                            "eqv": 49.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "55"
+                        },
+                        {
+                            "label": "bar snack size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "254",
+                    "measures": [
+                        {
+                            "label": "package 1.76 oz",
+                            "eqv": 49.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "124"
+                        },
+                        {
+                            "label": "bar snack size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "48"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "142",
+                    "measures": [
+                        {
+                            "label": "package 1.76 oz",
+                            "eqv": 49.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "70"
+                        },
+                        {
+                            "label": "bar snack size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "27"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.7",
+                    "measures": [
+                        {
+                            "label": "package 1.76 oz",
+                            "eqv": 49.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.3"
+                        },
+                        {
+                            "label": "bar snack size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "42",
+                    "measures": [
+                        {
+                            "label": "package 1.76 oz",
+                            "eqv": 49.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21"
+                        },
+                        {
+                            "label": "bar snack size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "17.590",
+                    "measures": [
+                        {
+                            "label": "package 1.76 oz",
+                            "eqv": 49.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.619"
+                        },
+                        {
+                            "label": "bar snack size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.342"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "5.260",
+                    "measures": [
+                        {
+                            "label": "package 1.76 oz",
+                            "eqv": 49.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.577"
+                        },
+                        {
+                            "label": "bar snack size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.999"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.180",
+                    "measures": [
+                        {
+                            "label": "package 1.76 oz",
+                            "eqv": 49.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.578"
+                        },
+                        {
+                            "label": "bar snack size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.224"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "4",
+                    "measures": [
+                        {
+                            "label": "package 1.76 oz",
+                            "eqv": 49.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "bar snack size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

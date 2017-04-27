@@ -1,0 +1,401 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "28039",
+            "name": "KASHI, TLC, Happy Trail Mix Cookies",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "9.04",
+                    "measures": [
+                        {
+                            "label": "cookie",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.71"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "451",
+                    "measures": [
+                        {
+                            "label": "cookie",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "135"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "8.10",
+                    "measures": [
+                        {
+                            "label": "cookie",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.43"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "18.10",
+                    "measures": [
+                        {
+                            "label": "cookie",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.43"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "63.86",
+                    "measures": [
+                        {
+                            "label": "cookie",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19.16"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "13.7",
+                    "measures": [
+                        {
+                            "label": "cookie",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "26.60",
+                    "measures": [
+                        {
+                            "label": "cookie",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.98"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "60",
+                    "measures": [
+                        {
+                            "label": "cookie",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "186",
+                    "measures": [
+                        {
+                            "label": "cookie",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "56"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "241",
+                    "measures": [
+                        {
+                            "label": "cookie",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "72"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "249",
+                    "measures": [
+                        {
+                            "label": "cookie",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "75"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.10",
+                    "measures": [
+                        {
+                            "label": "cookie",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.33"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.200",
+                    "measures": [
+                        {
+                            "label": "cookie",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.060"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.070",
+                    "measures": [
+                        {
+                            "label": "cookie",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.021"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.400",
+                    "measures": [
+                        {
+                            "label": "cookie",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.420"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.060",
+                    "measures": [
+                        {
+                            "label": "cookie",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.018"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "cookie",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "cookie",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cookie",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "4.100",
+                    "measures": [
+                        {
+                            "label": "cookie",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.230"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "7.800",
+                    "measures": [
+                        {
+                            "label": "cookie",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.340"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "5.600",
+                    "measures": [
+                        {
+                            "label": "cookie",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.680"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.010",
+                    "measures": [
+                        {
+                            "label": "cookie",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.003"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "cookie",
+                            "eqv": 30.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

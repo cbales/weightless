@@ -1,0 +1,468 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "16146",
+            "name": "Beans, pinto, canned, drained solids",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "70.60",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "195.56"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "114",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "316"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "6.99",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19.36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.90",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.49"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "20.22",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "56.01"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.5",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.54",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.50"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "63",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "175"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.33",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.68"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "32",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "89"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "101",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "280"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "274",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "759"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "239",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "662"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.61",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.69"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.1",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.052",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.144"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.019",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.053"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.272",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.753"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "24",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "66"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.158",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.438"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.153",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.424"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.273",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.756"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "can drained solids",
+                            "eqv": 277.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            {
+                "id": "a",
+                "desc": "Mean value contains data based on the analysis of 5-methyltetrahydrofolate, 10-Formyl folic acid, and 5-Formyltetrahydrofolic acid plus total folate determined microbiologically"
+            }
+        ]
+    }
+}

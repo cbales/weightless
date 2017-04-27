@@ -1,0 +1,270 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "22948",
+            "name": "SUPPER BAKES MEAL KITS, Savory Pork Chops with herb stuffing (pork chop not included)",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "52.30",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "44.45"
+                        },
+                        {
+                            "label": "box",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 0.167,
+                            "value": "44.45"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "181",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "154"
+                        },
+                        {
+                            "label": "box",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 0.167,
+                            "value": "154"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.91",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.02"
+                        },
+                        {
+                            "label": "box",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 0.167,
+                            "value": "5.02"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.18",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.00"
+                        },
+                        {
+                            "label": "box",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 0.167,
+                            "value": "1.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "36.64",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "31.14"
+                        },
+                        {
+                            "label": "box",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 0.167,
+                            "value": "31.14"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.4",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.0"
+                        },
+                        {
+                            "label": "box",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 0.167,
+                            "value": "2.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.73",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.02"
+                        },
+                        {
+                            "label": "box",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 0.167,
+                            "value": "4.02"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "922",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "784"
+                        },
+                        {
+                            "label": "box",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 0.167,
+                            "value": "784"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.591",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.502"
+                        },
+                        {
+                            "label": "box",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 0.167,
+                            "value": "0.502"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "box",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 0.167,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "6",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "box",
+                            "eqv": 85.0,
+                            "eunit": "g",
+                            "qty": 0.167,
+                            "value": "5"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

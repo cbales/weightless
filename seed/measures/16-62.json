@@ -1,0 +1,1007 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "42196",
+            "name": "Candies, MARS SNACKFOOD US, MILKY WAY Midnight Bar",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.20",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.60"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.37"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.95"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "443",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "222"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "84"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "182"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.20",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.60"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.61"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.31"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "17.50",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.75"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.33"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.17"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "71.22",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35.61"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.53"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "29.20"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.9",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.4"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.6"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "57.81",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28.91"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.98"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23.70"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "53",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.20",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.60"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.23"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.49"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "58",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "29"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "75",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "38"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "31"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "196",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "98"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "37"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "80"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "168",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "84"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "69"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.89",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.45"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.17"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.2",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.037",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.018"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.007"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.015"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.063",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.032"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.012"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.026"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.218",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.109"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.041"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.089"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.020",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.010"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.004"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.008"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "7",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.04",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.02"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.01"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.02"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "42",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "155",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "78"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "29"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "64"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.39",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.20"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.16"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "3.5",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.8"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.7"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "11.474",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.737"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.180"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.704"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "4.639",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.320"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.881"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.902"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.514",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.257"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.098"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.211"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.176",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.088"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.033"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.072"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "10",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "30",
+                    "measures": [
+                        {
+                            "label": "serving 1.76 oz bar",
+                            "eqv": 50.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        },
+                        {
+                            "label": "bar fun size",
+                            "eqv": 19.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        },
+                        {
+                            "label": "serving 5 miniatures",
+                            "eqv": 41.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

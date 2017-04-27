@@ -1,0 +1,209 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "14619",
+            "name": "Beverages, V8 SPLASH Juice Drinks, Tropical Blend",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "92.40",
+                    "measures": [
+                        {
+                            "label": "serving 8 oz",
+                            "eqv": 243.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "224.53"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "29",
+                    "measures": [
+                        {
+                            "label": "serving 8 oz",
+                            "eqv": 243.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "70"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "serving 8 oz",
+                            "eqv": 243.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "serving 8 oz",
+                            "eqv": 243.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.41",
+                    "measures": [
+                        {
+                            "label": "serving 8 oz",
+                            "eqv": 243.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18.01"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.41",
+                    "measures": [
+                        {
+                            "label": "serving 8 oz",
+                            "eqv": 243.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18.01"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "12",
+                    "measures": [
+                        {
+                            "label": "serving 8 oz",
+                            "eqv": 243.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "29"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "21",
+                    "measures": [
+                        {
+                            "label": "serving 8 oz",
+                            "eqv": 243.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "51"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "24.7",
+                    "measures": [
+                        {
+                            "label": "serving 8 oz",
+                            "eqv": 243.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "60.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "2058",
+                    "measures": [
+                        {
+                            "label": "serving 8 oz",
+                            "eqv": 243.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5001"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.11",
+                    "measures": [
+                        {
+                            "label": "serving 8 oz",
+                            "eqv": 243.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.70"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "serving 8 oz",
+                            "eqv": 243.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

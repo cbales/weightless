@@ -1,0 +1,592 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "21427",
+            "name": "KFC, Fried Chicken, ORIGINAL RECIPE, Thigh, meat only, skin and breading removed",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "65.65",
+                    "measures": [
+                        {
+                            "label": "thigh without skin",
+                            "eqv": 86.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "56.46"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "39.39"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "175",
+                    "measures": [
+                        {
+                            "label": "thigh without skin",
+                            "eqv": 86.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "150"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "105"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "22.78",
+                    "measures": [
+                        {
+                            "label": "thigh without skin",
+                            "eqv": 86.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19.59"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.67"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "9.31",
+                    "measures": [
+                        {
+                            "label": "thigh without skin",
+                            "eqv": 86.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.01"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.59"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.01",
+                    "measures": [
+                        {
+                            "label": "thigh without skin",
+                            "eqv": 86.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.01"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.01"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "20",
+                    "measures": [
+                        {
+                            "label": "thigh without skin",
+                            "eqv": 86.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.87",
+                    "measures": [
+                        {
+                            "label": "thigh without skin",
+                            "eqv": 86.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.75"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.52"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "20",
+                    "measures": [
+                        {
+                            "label": "thigh without skin",
+                            "eqv": 86.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "213",
+                    "measures": [
+                        {
+                            "label": "thigh without skin",
+                            "eqv": 86.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "183"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "128"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "230",
+                    "measures": [
+                        {
+                            "label": "thigh without skin",
+                            "eqv": 86.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "198"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "138"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "568",
+                    "measures": [
+                        {
+                            "label": "thigh without skin",
+                            "eqv": 86.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "488"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "341"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.91",
+                    "measures": [
+                        {
+                            "label": "thigh without skin",
+                            "eqv": 86.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.64"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.15"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.089",
+                    "measures": [
+                        {
+                            "label": "thigh without skin",
+                            "eqv": 86.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.077"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.053"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.310",
+                    "measures": [
+                        {
+                            "label": "thigh without skin",
+                            "eqv": 86.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.267"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.186"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "5.610",
+                    "measures": [
+                        {
+                            "label": "thigh without skin",
+                            "eqv": 86.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.825"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.366"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.137",
+                    "measures": [
+                        {
+                            "label": "thigh without skin",
+                            "eqv": 86.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.118"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.082"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.47",
+                    "measures": [
+                        {
+                            "label": "thigh without skin",
+                            "eqv": 86.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.40"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.28"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "11",
+                    "measures": [
+                        {
+                            "label": "thigh without skin",
+                            "eqv": 86.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "37",
+                    "measures": [
+                        {
+                            "label": "thigh without skin",
+                            "eqv": 86.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.41",
+                    "measures": [
+                        {
+                            "label": "thigh without skin",
+                            "eqv": 86.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.35"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.25"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.308",
+                    "measures": [
+                        {
+                            "label": "thigh without skin",
+                            "eqv": 86.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.985"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.385"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.830",
+                    "measures": [
+                        {
+                            "label": "thigh without skin",
+                            "eqv": 86.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.294"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.298"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.561",
+                    "measures": [
+                        {
+                            "label": "thigh without skin",
+                            "eqv": 86.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.342"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.937"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.042",
+                    "measures": [
+                        {
+                            "label": "thigh without skin",
+                            "eqv": 86.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.036"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.025"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "122",
+                    "measures": [
+                        {
+                            "label": "thigh without skin",
+                            "eqv": 86.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "105"
+                        },
+                        {
+                            "label": "thigh bone and skin removed",
+                            "eqv": 60.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "73"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

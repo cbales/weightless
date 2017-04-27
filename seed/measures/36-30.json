@@ -1,0 +1,417 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "21237",
+            "name": "McDONALD'S, BIG MAC",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "51.30",
+                    "measures": [
+                        {
+                            "label": "item 7.6 oz",
+                            "eqv": 219.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "112.35"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "257",
+                    "measures": [
+                        {
+                            "label": "item 7.6 oz",
+                            "eqv": 219.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "563"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "11.82",
+                    "measures": [
+                        {
+                            "label": "item 7.6 oz",
+                            "eqv": 219.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25.89"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "14.96",
+                    "measures": [
+                        {
+                            "label": "item 7.6 oz",
+                            "eqv": 219.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32.76"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "20.08",
+                    "measures": [
+                        {
+                            "label": "item 7.6 oz",
+                            "eqv": 219.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "43.98"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.6",
+                    "measures": [
+                        {
+                            "label": "item 7.6 oz",
+                            "eqv": 219.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.97",
+                    "measures": [
+                        {
+                            "label": "item 7.6 oz",
+                            "eqv": 219.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.69"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "116",
+                    "measures": [
+                        {
+                            "label": "item 7.6 oz",
+                            "eqv": 219.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "254"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.00",
+                    "measures": [
+                        {
+                            "label": "item 7.6 oz",
+                            "eqv": 219.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.38"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "20",
+                    "measures": [
+                        {
+                            "label": "item 7.6 oz",
+                            "eqv": 219.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "44"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "122",
+                    "measures": [
+                        {
+                            "label": "item 7.6 oz",
+                            "eqv": 219.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "267"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "181",
+                    "measures": [
+                        {
+                            "label": "item 7.6 oz",
+                            "eqv": 219.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "396"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "460",
+                    "measures": [
+                        {
+                            "label": "item 7.6 oz",
+                            "eqv": 219.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1007"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.91",
+                    "measures": [
+                        {
+                            "label": "item 7.6 oz",
+                            "eqv": 219.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.18"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.4",
+                    "measures": [
+                        {
+                            "label": "item 7.6 oz",
+                            "eqv": 219.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.9"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.176",
+                    "measures": [
+                        {
+                            "label": "item 7.6 oz",
+                            "eqv": 219.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.385"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.209",
+                    "measures": [
+                        {
+                            "label": "item 7.6 oz",
+                            "eqv": 219.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.458"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "3.384",
+                    "measures": [
+                        {
+                            "label": "item 7.6 oz",
+                            "eqv": 219.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.411"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.88",
+                    "measures": [
+                        {
+                            "label": "item 7.6 oz",
+                            "eqv": 219.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.93"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "188",
+                    "measures": [
+                        {
+                            "label": "item 7.6 oz",
+                            "eqv": 219.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "412"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.803",
+                    "measures": [
+                        {
+                            "label": "item 7.6 oz",
+                            "eqv": 219.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.329"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.474",
+                    "measures": [
+                        {
+                            "label": "item 7.6 oz",
+                            "eqv": 219.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.608"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.306",
+                    "measures": [
+                        {
+                            "label": "item 7.6 oz",
+                            "eqv": 219.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.670"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.588",
+                    "measures": [
+                        {
+                            "label": "item 7.6 oz",
+                            "eqv": 219.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.288"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "36",
+                    "measures": [
+                        {
+                            "label": "item 7.6 oz",
+                            "eqv": 219.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "79"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

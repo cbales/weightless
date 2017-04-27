@@ -1,0 +1,321 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "28067",
+            "name": "KEEBLER, CLUB, Multigrain Crackers",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.50",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "0.35"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "466",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "65"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.10",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "0.99"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "20.40",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "2.86"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "65.90",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "9.23"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.5",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "0.5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "12.00",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "1.68"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "29",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "292",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "41"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "171",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "24"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "883",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "124"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.520",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "0.073"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.280",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "0.039"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "3.400",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "0.476"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.300",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "0.462"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "5.000",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "0.700"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "11.800",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "1.652"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.190",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "0.027"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "crackers",
+                            "eqv": 14.0,
+                            "eunit": "g",
+                            "qty": 4.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

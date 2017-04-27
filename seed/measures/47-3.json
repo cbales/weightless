@@ -1,0 +1,1016 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "36061",
+            "name": "Restaurant, Mexican, soft taco with ground beef, cheese and lettuce",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "56.50",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "158.76"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "75.71"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "157.63"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "219.78"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "219",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "615"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "293"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "611"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "852"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "12.56",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35.29"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16.83"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "35.04"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "48.86"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "10.81",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30.38"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.49"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "30.16"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "42.05"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "17.92",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "50.36"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24.01"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "50.00"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "69.71"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.5",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.2"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.0"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "4.2"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "5.8"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.39",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.72"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.20"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "6.67"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "9.30"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "116",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "326"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "155"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "324"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "451"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.85",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.20"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.48"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "5.16"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "7.20"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "27",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "76"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "36"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "75"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "105"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "172",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "483"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "230"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "480"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "669"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "244",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "686"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "327"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "681"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "949"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "509",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1430"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "682"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "1420"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "1980"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.15",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.04"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.88"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "6.00"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "8.36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.162",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.455"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.217"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "0.452"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.630"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.248",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.697"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.332"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "0.692"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.965"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "2.630",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.390"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.524"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "7.338"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "10.231"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.136",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.382"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.182"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "0.379"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "0.529"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "1.22",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.43"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.63"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "3.40"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "4.75"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "49",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "138"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "66"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "137"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "191"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "250",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "702"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "335"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "698"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "972"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.82",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.30"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.10"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "2.29"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "3.19"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "4.486",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.606"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.011"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "12.516"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "17.451"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "4.229",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.883"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.667"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "11.799"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "16.451"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.203",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.380"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.612"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "3.356"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "4.680"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.616",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.731"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.825"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "1.719"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "2.396"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "34",
+                    "measures": [
+                        {
+                            "label": "serving varied from 1 to 3 tacos per serving",
+                            "eqv": 281.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "96"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 134.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "46"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 279.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "95"
+                        },
+                        {
+                            "label": "taco",
+                            "eqv": 389.0,
+                            "eunit": "g",
+                            "qty": 3.0,
+                            "value": "132"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

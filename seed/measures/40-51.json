@@ -1,0 +1,767 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "18390",
+            "name": "Pancakes, buttermilk, prepared from recipe",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "52.50",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.88"
+                        },
+                        {
+                            "label": "pancake (4\" dia)",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19.95"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 77.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "40.42"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "227",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "64"
+                        },
+                        {
+                            "label": "pancake (4\" dia)",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "86"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 77.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "175"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "6.80",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.93"
+                        },
+                        {
+                            "label": "pancake (4\" dia)",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.58"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 77.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.24"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "9.30",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.64"
+                        },
+                        {
+                            "label": "pancake (4\" dia)",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.53"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 77.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.16"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "28.70",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.14"
+                        },
+                        {
+                            "label": "pancake (4\" dia)",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.91"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 77.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22.10"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "157",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "45"
+                        },
+                        {
+                            "label": "pancake (4\" dia)",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "60"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 77.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "121"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.70",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.48"
+                        },
+                        {
+                            "label": "pancake (4\" dia)",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.65"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 77.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.31"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "15",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "pancake (4\" dia)",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 77.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "139",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "39"
+                        },
+                        {
+                            "label": "pancake (4\" dia)",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "53"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 77.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "107"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "145",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "41"
+                        },
+                        {
+                            "label": "pancake (4\" dia)",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "55"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 77.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "112"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "522",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "148"
+                        },
+                        {
+                            "label": "pancake (4\" dia)",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "198"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 77.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "402"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.62",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.18"
+                        },
+                        {
+                            "label": "pancake (4\" dia)",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.24"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 77.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.48"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.4",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "pancake (4\" dia)",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 77.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.204",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.058"
+                        },
+                        {
+                            "label": "pancake (4\" dia)",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.078"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 77.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.157"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.292",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.083"
+                        },
+                        {
+                            "label": "pancake (4\" dia)",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.111"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 77.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.225"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.577",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.447"
+                        },
+                        {
+                            "label": "pancake (4\" dia)",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.599"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 77.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.214"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.045",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.013"
+                        },
+                        {
+                            "label": "pancake (4\" dia)",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.017"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 77.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.035"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "56",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16"
+                        },
+                        {
+                            "label": "pancake (4\" dia)",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 77.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "43"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.18",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.05"
+                        },
+                        {
+                            "label": "pancake (4\" dia)",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 77.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.14"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "30",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9"
+                        },
+                        {
+                            "label": "pancake (4\" dia)",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 77.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "105",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30"
+                        },
+                        {
+                            "label": "pancake (4\" dia)",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "40"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 77.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "81"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.832",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.519"
+                        },
+                        {
+                            "label": "pancake (4\" dia)",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.696"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 77.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.411"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.361",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.669"
+                        },
+                        {
+                            "label": "pancake (4\" dia)",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.897"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 77.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.818"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "4.486",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.272"
+                        },
+                        {
+                            "label": "pancake (4\" dia)",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.705"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 77.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.454"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "58",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16"
+                        },
+                        {
+                            "label": "pancake (4\" dia)",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        },
+                        {
+                            "label": "pancake (6\" dia)",
+                            "eqv": 77.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "45"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

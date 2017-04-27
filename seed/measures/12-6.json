@@ -1,0 +1,1007 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "14154",
+            "name": "Beverages, Energy drink, RED BULL",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "89.22",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "230.19"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "329.22"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "438.96"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "43",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "111"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "159"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "212"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.46",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.19"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.70"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.26"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "10.23",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26.39"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "37.75"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "50.33"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "10.22",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26.37"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "37.71"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "50.28"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "6",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.06",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.15"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.22"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.30"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "19",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "49"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "70"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "93"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "3",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "39",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "101"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "144"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "192"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.01",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.03"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.04"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.05"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.040",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.103"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.148"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.197"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.103",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.266"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.380"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.507"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "9.827",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25.354"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "36.262"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "48.349"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "2.167",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.591"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.996"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.662"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "1.97",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.08"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.27"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.69"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "29",
+                    "measures": [
+                        {
+                            "label": "can 8.4 fl oz",
+                            "eqv": 258.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "75"
+                        },
+                        {
+                            "label": "serving 12 fl oz",
+                            "eqv": 369.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "107"
+                        },
+                        {
+                            "label": "serving 16 fl oz",
+                            "eqv": 492.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "143"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

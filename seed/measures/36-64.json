@@ -1,0 +1,337 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "21407",
+            "name": "McDONALD'S, Premium Crispy Chicken Ranch BLT Sandwich",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "48.61",
+                    "measures": [
+                        {
+                            "label": "item 8.5 oz",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "116.66"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "244",
+                    "measures": [
+                        {
+                            "label": "item 8.5 oz",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "586"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "14.70",
+                    "measures": [
+                        {
+                            "label": "item 8.5 oz",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35.28"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "9.55",
+                    "measures": [
+                        {
+                            "label": "item 8.5 oz",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22.92"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "24.93",
+                    "measures": [
+                        {
+                            "label": "item 8.5 oz",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "59.83"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.4",
+                    "measures": [
+                        {
+                            "label": "item 8.5 oz",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.53",
+                    "measures": [
+                        {
+                            "label": "item 8.5 oz",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.27"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "35",
+                    "measures": [
+                        {
+                            "label": "item 8.5 oz",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "84"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.42",
+                    "measures": [
+                        {
+                            "label": "item 8.5 oz",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.41"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "488",
+                    "measures": [
+                        {
+                            "label": "item 8.5 oz",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1171"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "4.3",
+                    "measures": [
+                        {
+                            "label": "item 8.5 oz",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.190",
+                    "measures": [
+                        {
+                            "label": "item 8.5 oz",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.456"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.165",
+                    "measures": [
+                        {
+                            "label": "item 8.5 oz",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.396"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "5.254",
+                    "measures": [
+                        {
+                            "label": "item 8.5 oz",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.610"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "306",
+                    "measures": [
+                        {
+                            "label": "item 8.5 oz",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "734"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.971",
+                    "measures": [
+                        {
+                            "label": "item 8.5 oz",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.730"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.773",
+                    "measures": [
+                        {
+                            "label": "item 8.5 oz",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.055"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.231",
+                    "measures": [
+                        {
+                            "label": "item 8.5 oz",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.754"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.090",
+                    "measures": [
+                        {
+                            "label": "item 8.5 oz",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.216"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "30",
+                    "measures": [
+                        {
+                            "label": "item 8.5 oz",
+                            "eqv": 240.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "72"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

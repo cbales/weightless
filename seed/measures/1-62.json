@@ -1,0 +1,155 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "14125",
+            "name": "Alcoholic beverage, wine, table, white, late harvest, Gewurztraminer",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "79.40",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 30.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24.22"
+                        },
+                        {
+                            "label": "serving (5 fl oz)",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "120.69"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "108",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 30.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "33"
+                        },
+                        {
+                            "label": "serving (5 fl oz)",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "164"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.07",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 30.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.02"
+                        },
+                        {
+                            "label": "serving (5 fl oz)",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.11"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 30.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "serving (5 fl oz)",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "11.39",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 30.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.47"
+                        },
+                        {
+                            "label": "serving (5 fl oz)",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17.31"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "fl oz",
+                            "eqv": 30.5,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "serving (5 fl oz)",
+                            "eqv": 152.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

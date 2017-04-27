@@ -1,0 +1,273 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "01194",
+            "name": "KRAFT BREAKSTONE'S FREE Fat Free Sour Cream",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "77.70",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 32.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "24.86"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "91",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 32.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "29"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.70",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 32.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "1.50"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.30",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 32.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "0.42"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "15.10",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 32.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "4.83"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 32.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "7.20",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 32.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "2.30"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "141",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 32.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "45"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.05",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 32.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "0.02"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "116",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 32.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "37"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "219",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 32.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "70"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "72",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 32.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "23"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.2",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 32.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "0.4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "679",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 32.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "217"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.800",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 32.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "0.256"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "9",
+                    "measures": [
+                        {
+                            "label": "tbsp",
+                            "eqv": 32.0,
+                            "eunit": "g",
+                            "qty": 2.0,
+                            "value": "3"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

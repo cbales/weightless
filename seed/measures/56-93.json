@@ -1,0 +1,707 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "18932",
+            "name": "Waffles, buttermilk, frozen, ready-to-heat",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "40.34",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.73"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.33"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "273",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "106"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "104"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "6.58",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.57"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.50"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "9.22",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.60"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.50"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "41.05",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16.01"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.60"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.2",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.9"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.8"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.30",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.68"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.63"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "279",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "109"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "106"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "6.04",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.36"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.30"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "19",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "388",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "151"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "147"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "126",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "49"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "48"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "621",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "242"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "236"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.48",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.19"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.18"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.499",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.195"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.190"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.665",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.259"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.253"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "6.675",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.603"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.537"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.972",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.379"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.369"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "96",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "37"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "2.86",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.12"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.09"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "401",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "156"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "152"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "1340",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "523"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "509"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.62",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.24"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.24"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "10.5",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.1"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.898",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.740"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.721"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "4.530",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.767"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.721"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.445",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.564"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.549"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "15",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "waffle, square",
+                            "eqv": 39.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "waffle, round",
+                            "eqv": 38.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

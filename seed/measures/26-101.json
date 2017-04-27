@@ -1,0 +1,1425 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "15042",
+            "name": "Fish, herring, Atlantic, kippered",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "59.70",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16.92"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.15"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "38.80"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23.88"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.94"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "217",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "62"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "37"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "141"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "87"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "43"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "24.58",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.97"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.18"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.98"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.83"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.92"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "12.37",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.51"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.10"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.04"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.95"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.47"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "84",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "55"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "34"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.51",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.43"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.26"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.98"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.60"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.30"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "46",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "30"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "325",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "92"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "55"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "211"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "130"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "65"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "447",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "127"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "76"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "291"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "179"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "89"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "918",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "260"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "156"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "597"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "367"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "184"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.36",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.39"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.23"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.88"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.54"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.27"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.0",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.3"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.7"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.4"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.126",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.036"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.021"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.082"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.050"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.025"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.319",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.090"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.054"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.207"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.128"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.064"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "4.402",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.248"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.748"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.861"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.761"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.880"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.413",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.117"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.070"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.268"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.165"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.083"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "14",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "18.70",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.30"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.18"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.15"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.48"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.74"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "40",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "135",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "38"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "88"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "54"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "27"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.54",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.44"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.26"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.00"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.62"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.31"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "2.2",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.6"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.4"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.4"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.9"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "86",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "24"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "56"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "34"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.1",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.791",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.791"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.474"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.814"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.116"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.558"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "5.112",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.449"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.869"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.323"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.045"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.022"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.919",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.828"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.496"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.897"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.168"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.584"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "82",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "53"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "33"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz, boneless",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cubic inch, boneless",
+                            "eqv": 17.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "fillet, large (7\" x 2-1/4\" x 1/4\")",
+                            "eqv": 65.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "fillet, medium (5\" x 1-3/4\" x 1/4\")",
+                            "eqv": 40.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "fillet, small (2-3/8\" x 1-3/8\" x 1/4\")",
+                            "eqv": 20.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

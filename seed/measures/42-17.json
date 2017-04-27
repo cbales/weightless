@@ -1,0 +1,977 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "18304",
+            "name": "Pie, banana cream, prepared from recipe",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "47.90",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.58"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "568.09"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "68.98"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "269",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "76"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3190"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "387"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.40",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.25"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "52.18"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.34"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "13.60",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.86"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "161.30"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19.58"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "32.90",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.33"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "390.19"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "47.38"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.7",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.3"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "12.06",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.42"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "143.03"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17.37"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "75",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "890"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "108"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "1.04",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.29"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.33"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.50"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "16",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "190"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "92",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1091"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "132"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "165",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "47"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1957"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "238"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "240",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "68"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2846"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "346"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.48",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.14"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.69"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.69"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.6",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.5"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "19.0"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.3"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.139",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.039"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.649"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.200"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.207",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.059"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.455"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.298"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "1.054",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.299"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "12.500"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.518"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.133",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.038"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.577"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.192"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "38",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "451"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "55"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.25",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.07"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.96"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "61",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "723"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "88"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "237",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "67"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2811"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "341"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.40",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.11"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.74"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.58"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.8",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.5"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "32",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "380"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "46"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "6.3",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.8"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "74.7"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.758",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.065"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "44.570"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.412"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "5.719",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.621"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "67.827"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.235"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.292",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.933"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "39.043"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.740"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "51",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "605"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "73"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "pie (9\" dia)",
+                            "eqv": 1186.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "piece (1/8 of 9\" dia)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

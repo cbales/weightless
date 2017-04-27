@@ -1,0 +1,161 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "18642",
+            "name": "GENERAL MILLS, BETTY CROCKER SUPERMOIST Yellow Cake Mix, dry",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.20",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.81"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "413",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "178"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.80",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.63"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "8.10",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.48"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "81.30",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "34.96"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "43.90",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "18.88"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "161",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "69"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "672",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "289"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.280",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.980"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

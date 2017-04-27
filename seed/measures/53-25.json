@@ -1,0 +1,193 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "22945",
+            "name": "SUPPER BAKES MEAL KITS, Garlic Chicken with pasta (chicken not included)",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "42.00",
+                    "measures": [
+                        {
+                            "label": "box (NLEA serving)",
+                            "eqv": 103.0,
+                            "eunit": "g",
+                            "qty": 0.167,
+                            "value": "43.26"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "220",
+                    "measures": [
+                        {
+                            "label": "box (NLEA serving)",
+                            "eqv": 103.0,
+                            "eunit": "g",
+                            "qty": 0.167,
+                            "value": "227"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "9.76",
+                    "measures": [
+                        {
+                            "label": "box (NLEA serving)",
+                            "eqv": 103.0,
+                            "eunit": "g",
+                            "qty": 0.167,
+                            "value": "10.05"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "0.98",
+                    "measures": [
+                        {
+                            "label": "box (NLEA serving)",
+                            "eqv": 103.0,
+                            "eunit": "g",
+                            "qty": 0.167,
+                            "value": "1.01"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "42.93",
+                    "measures": [
+                        {
+                            "label": "box (NLEA serving)",
+                            "eqv": 103.0,
+                            "eunit": "g",
+                            "qty": 0.167,
+                            "value": "44.22"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.0",
+                    "measures": [
+                        {
+                            "label": "box (NLEA serving)",
+                            "eqv": 103.0,
+                            "eunit": "g",
+                            "qty": 0.167,
+                            "value": "2.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "6.83",
+                    "measures": [
+                        {
+                            "label": "box (NLEA serving)",
+                            "eqv": 103.0,
+                            "eunit": "g",
+                            "qty": 0.167,
+                            "value": "7.03"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "741",
+                    "measures": [
+                        {
+                            "label": "box (NLEA serving)",
+                            "eqv": 103.0,
+                            "eunit": "g",
+                            "qty": 0.167,
+                            "value": "763"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.488",
+                    "measures": [
+                        {
+                            "label": "box (NLEA serving)",
+                            "eqv": 103.0,
+                            "eunit": "g",
+                            "qty": 0.167,
+                            "value": "0.503"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "box (NLEA serving)",
+                            "eqv": 103.0,
+                            "eunit": "g",
+                            "qty": 0.167,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "5",
+                    "measures": [
+                        {
+                            "label": "box (NLEA serving)",
+                            "eqv": 103.0,
+                            "eunit": "g",
+                            "qty": 0.167,
+                            "value": "5"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

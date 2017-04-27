@@ -1,0 +1,1238 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "18140",
+            "name": "Cake, yellow, commercially prepared, with chocolate frosting, in-store bakery",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "22.38",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "32.23"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "386.95"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.32"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.34"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "379",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "546"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6553"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "243"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "107"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "3.16",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.55"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "54.64"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.02"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.90"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "17.75",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25.56"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "306.90"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.36"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.03"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "55.36",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "79.72"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "957.17"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35.43"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "15.69"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.5",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.2"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25.9"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.0"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "39.22",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "56.48"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "678.11"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25.10"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "32",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "46"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "553"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.03",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.92"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35.10"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.30"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.58"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "20",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "29"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "346"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "138",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "199"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2386"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "88"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "39"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "187",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "269"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3233"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "120"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "53"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "310",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "446"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5360"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "198"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "88"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.42",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.60"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.26"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.27"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.12"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.043",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.062"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.743"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.028"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.012"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.093",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.134"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.608"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.060"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.026"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.800",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.152"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "13.832"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.512"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.227"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.000",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.000"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "32",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "46"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "553"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "20"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "418",
+                    "name": "Vitamin B-12",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.00",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "7",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "121"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "26",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "37"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "450"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "17"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "4.50",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.48"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "77.81"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.88"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.28"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "328",
+                    "name": "Vitamin D (D2 + D3)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "0.2",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.3"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.5"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "324",
+                    "name": "Vitamin D",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "6",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "104"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "25.1",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "36.1"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "434.0"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "16.1"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "7.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "5.793",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "8.342"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "100.161"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.708"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.642"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "7.214",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.388"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "124.730"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.617"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.045"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "4.728",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.808"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "81.747"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.026"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.340"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.313",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.891"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "22.702"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.840"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.372"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "16",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "23"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "277"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "262",
+                    "name": "Caffeine",
+                    "group": "Other",
+                    "unit": "mg",
+                    "value": "0",
+                    "measures": [
+                        {
+                            "label": "piece (1/12 of a cake)",
+                            "eqv": 144.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "cake",
+                            "eqv": 1729.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "piece (1/8 of 18 oz cake)",
+                            "eqv": 64.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        },
+                        {
+                            "label": "oz",
+                            "eqv": 28.35,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

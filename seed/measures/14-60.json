@@ -1,0 +1,289 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "21506",
+            "name": "BURGER KING, Double Cheeseburger",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "47.37",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 162.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "76.74"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "282",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 162.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "457"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "16.83",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 162.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "27.26"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "16.13",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 162.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26.13"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "17.43",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 162.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "28.24"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.17",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 162.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6.76"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "120",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 162.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "194"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.33",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 162.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.77"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "23",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 162.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "37"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "168",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 162.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "272"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "231",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 162.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "374"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "562",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 162.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "910"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.92",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 162.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.73"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "6.922",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 162.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "11.214"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "6.079",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 162.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "9.848"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.215",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 162.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.968"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.702",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 162.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.137"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

@@ -1,0 +1,449 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "18939",
+            "name": "Toaster pastries, fruit, toasted (include apple, blueberry, cherry, strawberry)",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "10.46",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.33"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "409",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "209"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.70",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.40"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "11.03",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.63"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "72.70",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "37.08"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.0",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.5"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "28.99",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.78"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "11",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "3.92",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.00"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "12",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "6"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "76",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "39"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "81",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "41"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "354",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "181"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "0.38",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.19"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.0",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.365",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.186"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.415",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.212"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "5.250",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.678"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.465",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.237"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "76",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "39"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "320",
+                    "name": "Vitamin A, RAE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "467",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "238"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "318",
+                    "name": "Vitamin A, IU",
+                    "group": "Vitamins",
+                    "unit": "IU",
+                    "value": "1563",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "797"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.90",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.46"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "6.6",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.637",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.345"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "6.550",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.341"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.281",
+                    "measures": [
+                        {
+                            "label": "pastry",
+                            "eqv": 51.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.653"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

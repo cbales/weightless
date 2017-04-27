@@ -1,0 +1,225 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "18641",
+            "name": "INTERSTATE BRANDS CORP, WONDER Hamburger Rolls",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "34.20",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.71"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "273",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "117"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "8.07",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.47"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "4.15",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.78"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "50.84",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "21.86"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "2.6",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.1"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "11.06",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.76"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "87",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "37"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.22",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.95"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "488",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "210"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.013",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.436"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.848",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.365"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "2.177",
+                    "measures": [
+                        {
+                            "label": "serving",
+                            "eqv": 43.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.936"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}

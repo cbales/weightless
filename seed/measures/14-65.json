@@ -1,0 +1,449 @@
+{
+    "report": {
+        "sr": "28",
+        "type": "Basic",
+        "food": {
+            "ndbno": "21250",
+            "name": "BURGER KING, Hamburger",
+            "ds": "Standard Reference",
+            "ru": "g",
+            "nutrients": [
+                {
+                    "nutrient_id": "255",
+                    "name": "Water",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "45.97",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "45.51"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "208",
+                    "name": "Energy",
+                    "group": "Proximates",
+                    "unit": "kcal",
+                    "value": "261",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "258"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "203",
+                    "name": "Protein",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "14.85",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "14.70"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "204",
+                    "name": "Total lipid (fat)",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "10.55",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "10.44"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "205",
+                    "name": "Carbohydrate, by difference",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "26.76",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "26.49"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "291",
+                    "name": "Fiber, total dietary",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "1.0",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.0"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "269",
+                    "name": "Sugars, total",
+                    "group": "Proximates",
+                    "unit": "g",
+                    "value": "5.60",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.54"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "301",
+                    "name": "Calcium, Ca",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "76",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "75"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "303",
+                    "name": "Iron, Fe",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.87",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.84"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "304",
+                    "name": "Magnesium, Mg",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "25",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "25"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "305",
+                    "name": "Phosphorus, P",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "126",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "125"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "306",
+                    "name": "Potassium, K",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "217",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "215"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "307",
+                    "name": "Sodium, Na",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "461",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "456"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "309",
+                    "name": "Zinc, Zn",
+                    "group": "Minerals",
+                    "unit": "mg",
+                    "value": "2.38",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "2.36"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "401",
+                    "name": "Vitamin C, total ascorbic acid",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.2",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.2"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "404",
+                    "name": "Thiamin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.334",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.331"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "405",
+                    "name": "Riboflavin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.227",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.225"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "406",
+                    "name": "Niacin",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "3.947",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.908"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "415",
+                    "name": "Vitamin B-6",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.101",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.100"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "435",
+                    "name": "Folate, DFE",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "89",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "88"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "323",
+                    "name": "Vitamin E (alpha-tocopherol)",
+                    "group": "Vitamins",
+                    "unit": "mg",
+                    "value": "0.04",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.04"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "430",
+                    "name": "Vitamin K (phylloquinone)",
+                    "group": "Vitamins",
+                    "unit": "\u00b5g",
+                    "value": "5.5",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "5.4"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "606",
+                    "name": "Fatty acids, total saturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "3.821",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "3.783"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "645",
+                    "name": "Fatty acids, total monounsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "4.249",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "4.207"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "646",
+                    "name": "Fatty acids, total polyunsaturated",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "1.244",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "1.232"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "605",
+                    "name": "Fatty acids, total trans",
+                    "group": "Lipids",
+                    "unit": "g",
+                    "value": "0.467",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "0.462"
+                        }
+                    ]
+                },
+                {
+                    "nutrient_id": "601",
+                    "name": "Cholesterol",
+                    "group": "Lipids",
+                    "unit": "mg",
+                    "value": "35",
+                    "measures": [
+                        {
+                            "label": "sandwich",
+                            "eqv": 99.0,
+                            "eunit": "g",
+                            "qty": 1.0,
+                            "value": "35"
+                        }
+                    ]
+                }
+            ]
+        },
+        "footnotes": [
+            
+        ]
+    }
+}
